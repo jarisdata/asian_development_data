@@ -33,7 +33,7 @@ from dash import html
 
 
 # 1. Loading the data
-main_data = pd.read_csv('https://raw.githubusercontent.com/jarisdata/asian_development_data/main/main_data_export_cor.csv')
+main_data = pd.read_csv('https://raw.githubusercontent.com/jarisdata/asian_development_data/main/main_data_cor.csv')
 
 
 # Doorstep conditions
