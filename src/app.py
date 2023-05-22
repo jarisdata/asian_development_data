@@ -27,13 +27,9 @@ import dash_bootstrap_components as dbc    # pip install dash-bootstrap-componen
 from dash import html
 
 
+# Loading the data
 
-
-
-
-
-# 1. Loading the data
-main_data = pd.read_csv('https://raw.githubusercontent.com/jarisdata/asian_development_data/main/main_data_cor.csv')
+main_data = pd.read_csv('https://raw.githubusercontent.com/jarisdata/asian_development_data/main/main_data_export_cor.csv')
 
 
 # Doorstep conditions
