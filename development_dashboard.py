@@ -2,10 +2,8 @@
 import pandas as pd
 import numpy as np
 
-import pandas.plotting as pdplot
 import plotly.express as px
 from plotly.subplots import make_subplots
-import chart_studio.plotly as py
 import plotly.graph_objects as go
 
 # Dash
@@ -536,7 +534,8 @@ def ij_line_plot_func(extract_iso,selected_year):
 # Dash app
 
 app = Dash(__name__, suppress_callback_exceptions=True, external_stylesheets=[dbc.themes.LUX])  # LUX was ok, try SLATE, DARKLY
-server = app.server
+#server = app.server
+
 # Components
 
 mytitle = dcc.Markdown('Asian Development Dashboard (BETA)', id='main_title', style={'font-size': '48px', 'font-weight': 'bold', 'text-align': 'center'})
