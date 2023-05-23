@@ -536,7 +536,7 @@ def ij_line_plot_func(extract_iso,selected_year):
 # Dash app
 
 app = Dash(__name__, suppress_callback_exceptions=True, external_stylesheets=[dbc.themes.LUX])  # LUX was ok, try SLATE, DARKLY
-
+server = app.server
 # Components
 
 mytitle = dcc.Markdown('Asian Development Dashboard (BETA)', id='main_title', style={'font-size': '48px', 'font-weight': 'bold', 'text-align': 'center'})
