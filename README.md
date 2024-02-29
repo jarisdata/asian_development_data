@@ -4,7 +4,7 @@ The dashboard visualizes a collection of key political and economic development 
 
 The data includes 40 indicators and various aggregate measures of political and economic development for each country. The full dataset dataset covers 106 countries and 3,000 country-years, which probably makes it the most comprehensive consecutive time-series on the conjunction of political and economic development to date. Key features are composite indicators of political and economic development as well as disaggregated data on _de facto_ and _de jure_ institutional development. 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/36b9d2a5b9818402d3ccfef13d1844c2bccaaec769ee8b94.png)
+![](https://github.com/jarisdata/asian_development_data/blob/main/graphs/tha_db_gap.png)
 
 The data comes from approximately 40 different sources, including Varieties of Democracy (V-Dem), Fraser Economic Freedom of the World, UN, World Bank, International Monetary Fund (IMF), Economic Transformation Database (ETD), Atlas of Economic Complexity, Penn World Tables (PWT), Government Revenue Dataset (GRD), Centre for Business Research Labour Regulation Index (CBR–LRI), and Institute for Health Metrics and Evaluation (IHME).
 
@@ -13,3 +13,5 @@ The dashboard itself is still in its very early stages, but some of the core fun
 A major update with global coverage, a detailed codebook with descriptions of the indicators and the method of aggregation, as well as a fresh design can be expected toward the end of 2024.
 
 If you want to use any of the data or visualizations on this GitHub repo please contact me in advance. Thanks!
+
+
