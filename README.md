@@ -6,7 +6,7 @@ The data includes approximately 60 indicators and various aggregate measures of 
 
 [Interactive Chart:](https://datawrapper.dwcdn.net/Jqr1f/2/)
 
-<div style="min-height:482px"><noscript><img src="https://datawrapper.dwcdn.net/Jqr1f/full.png" alt="" /></noscript></div>
+<div style="min-height:380px"><noscript><img src="https://datawrapper.dwcdn.net/w3h7z/full.png" alt="" /></noscript></div>
 
 
 ![](https://github.com/jarisdata/asian_development_data/blob/main/graphs/tha_db_gap.png)
