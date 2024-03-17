@@ -4,7 +4,9 @@ The dashboard visualizes a collection of key political and economic development 
 
 The data includes approximately 60 indicators and various aggregate measures of political and economic development for each country. The full dataset dataset covers 106 countries and 3,000 country-years, which probably makes it the most comprehensive consecutive time-series on the conjunction of political and economic development to date. Key features are composite indicators of political and economic development as well as disaggregated data on _de facto_ and _de jure_ institutional development. 
 
-<iframe title="Six decades of Thai development" aria-label="Interactive area chart" id="datawrapper-chart-Jqr1f" src="https://datawrapper.dwcdn.net/Jqr1f/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="482" data-external="1"></iframe>
+[Interactive Chart:](https://datawrapper.dwcdn.net/Jqr1f/2/)
+
+<div style="min-height:482px"><noscript><img src="https://datawrapper.dwcdn.net/Jqr1f/full.png" alt="" /></noscript></div>
 
 
 ![](https://github.com/jarisdata/asian_development_data/blob/main/graphs/tha_db_gap.png)
