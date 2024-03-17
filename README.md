@@ -4,7 +4,7 @@ The dashboard visualizes a collection of key political and economic development 
 
 The data includes approximately 60 indicators and various aggregate measures of political and economic development for each country. The full dataset dataset covers 106 countries and 3,000 country-years, which probably makes it the most comprehensive consecutive time-series on the conjunction of political and economic development to date. Key features are composite indicators of political and economic development as well as disaggregated data on _de facto_ and _de jure_ institutional development. 
 
-[Interactive Chart:](https://datawrapper.dwcdn.net/Jqr1f/2/)
+[Interactive Chart:](https://datawrapper.dwcdn.net/w3h7z/1/)
 
 <div style="min-height:380px"><noscript><img src="https://datawrapper.dwcdn.net/w3h7z/full.png" alt="" /></noscript></div>
 
