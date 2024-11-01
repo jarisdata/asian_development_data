@@ -1,252 +1,252 @@
-country,alt_spell,iso2,iso,ioc,code,region,subregion,BarroLeeCodes,vdem_id,COWcode,Land_x,Land_y,Land
-Afghanistan,"['AF', 'Afġānistān']",AF,AFG,AFG,004,Asia,Southern Asia,79.0,36.0,700.0,Afghanistan,Afghanistan,Afghanistan
-Albania,"['AL', 'Shqipëri', 'Shqipëria', 'Shqipnia']",AL,ALB,ALB,008,Europe,Southeast Europe,156.0,12.0,339.0,Albanien,Albanien,Albanien
-Algeria,"['DZ', 'Dzayer', 'Algérie']",DZ,DZA,ALG,012,Africa,Northern Africa,1.0,103.0,615.0,Algerien,Algerien,Algerien
-American Samoa,"['AS', 'Amerika Sāmoa', 'Amelika Sāmoa', 'Sāmoa Amelika']",AS,ASM,ASA,016,Oceania,Polynesia,,,,Samoa,Samoa,Samoa
-Andorra,"['AD', 'Principality of Andorra', ""Principat d'Andorra""]",AD,AND,AND,020,Europe,Southern Europe,,,,Andorra,Andorra,Andorra
-Angola,"['AO', 'República de Angola', ""ʁɛpublika de an'ɡɔla""]",AO,AGO,ANG,024,Africa,Middle Africa,,104.0,540.0,Angola,Angola,Angola
-Anguilla,['AI'],AI,AIA,[],660,Americas,Caribbean,,,,Anguilla,Anguilla,Anguilla
-Antarctica,['AQ'],AQ,ATA,[],010,Antarctic,[],,,,Antarktis,Antarktis,Antarktis
-Antigua and Barbuda,['AG'],AG,ATG,ANT,028,Americas,Caribbean,,,,Antigua und Barbuda,Antigua und Barbuda,Antigua und Barbuda
-Argentina,"['AR', 'Argentine Republic', 'República Argentina']",AR,ARG,ARG,032,Americas,South America,67.0,37.0,160.0,Argentinien,Argentinien,Argentinien
-Armenia,"['AM', 'Hayastan', 'Republic of Armenia', 'Հայաստանի Հանրապետություն']",AM,ARM,ARM,051,Asia,Western Asia,308.0,105.0,371.0,Armenien,Armenien,Armenien
-Aruba,['AW'],AW,ABW,ARU,533,Americas,Caribbean,,,,Aruba,Aruba,Aruba
-Australia,['AU'],AU,AUS,AUS,036,Oceania,Australia and New Zealand,131.0,67.0,900.0,Australien,Australien,Australien
-Austria,"['AT', 'Osterreich', 'Oesterreich']",AT,AUT,AUT,040,Europe,Central Europe,107.0,144.0,305.0,Österreich,Österreich,Österreich
-Azerbaijan,"['AZ', 'Republic of Azerbaijan', 'Azərbaycan Respublikası']",AZ,AZE,AZE,031,Asia,Western Asia,,106.0,373.0,Aserbaidschan,Aserbaidschan,Aserbaidschan
-Bahamas,"['BS', 'Commonwealth of the Bahamas']",BS,BHS,BAH,044,Americas,Caribbean,,,,Bahamas,Bahamas,Bahamas
-Bahrain,"['BH', 'Kingdom of Bahrain', 'Mamlakat al-Baḥrayn']",BH,BHR,BHR,048,Asia,Western Asia,80.0,146.0,692.0,Bahrain,Bahrain,Bahrain
-Bangladesh,"['BD', ""People's Republic of Bangladesh"", 'Gônôprôjatôntri Bangladesh']",BD,BGD,BAN,050,Asia,Southern Asia,81.0,24.0,771.0,Bangladesh,Bangladesh,Bangladesh
-Barbados,['BB'],BB,BRB,BAR,052,Americas,Caribbean,49.0,147.0,53.0,Barbados,Barbados,Barbados
-Belarus,"['BY', 'Bielaruś', 'Republic of Belarus', 'Белоруссия', 'Республика Белоруссия']",BY,BLR,BLR,112,Europe,Eastern Europe,,107.0,370.0,Weissrussland,Weissrussland,Weissrussland
-Belgium,"['BE', 'België', 'Belgie', 'Belgien', 'Belgique', 'Kingdom of Belgium', 'Koninkrijk België', 'Royaume de Belgique', 'Königreich Belgien']",BE,BEL,BEL,056,Europe,Western Europe,108.0,148.0,211.0,Belgien,Belgien,Belgien
-Belize,['BZ'],BZ,BLZ,BIZ,084,Americas,Central America,143.0,,,Belize,Belize,Belize
-Benin,"['BJ', 'Republic of Benin', 'République du Bénin']",BJ,BEN,BEN,204,Africa,Western Africa,3.0,52.0,434.0,Benin,Benin,Benin
-Bermuda,"['BM', 'The Islands of Bermuda', 'The Bermudas', 'Somers Isles']",BM,BMU,BER,060,Americas,North America,,,,Bermudas,Bermudas,Bermudas
-Bhutan,"['BT', 'Kingdom of Bhutan']",BT,BTN,BHU,064,Asia,Southern Asia,,53.0,760.0,Bhutan,Bhutan,Bhutan
-Bolivia,"['BO', 'Buliwya', 'Wuliwya', 'Bolivia, Plurinational State of', 'Plurinational State of Bolivia', 'Estado Plurinacional de Bolivia', 'Buliwya Mamallaqta', 'Wuliwya Suyu', 'Tetã Volívia']",BO,BOL,BOL,068,Americas,South America,68.0,25.0,145.0,Bolivien,Bolivien,Bolivien
-Bosnia and Herzegovina,"['BA', 'Bosnia-Herzegovina', 'Босна и Херцеговина']",BA,BIH,BIH,070,Europe,Southeast Europe,,150.0,346.0,Bosnien-Herzegowina,Bosnien-Herzegowina,Bosnien-Herzegowina
-Botswana,"['BW', 'Republic of Botswana', 'Lefatshe la Botswana']",BW,BWA,BOT,072,Africa,Southern Africa,4.0,68.0,571.0,Botswana,Botswana,Botswana
-Bouvet Island,"['BV', 'Bouvetøya', 'Bouvet-øya']",BV,BVT,[],074,Antarctic,[],,,,Bouvet Inseln,Bouvet Inseln,Bouvet Inseln
-Brazil,"['BR', 'Brasil', 'Federative Republic of Brazil', 'República Federativa do Brasil']",BR,BRA,BRA,076,Americas,South America,69.0,19.0,140.0,Brasilien,Brasilien,Brasilien
-British Indian Ocean Territory,['IO'],IO,IOT,[],086,Africa,Eastern Africa,,,,Britisch-Indischer Ozean,Britisch-Indischer Ozean,Britisch-Indischer Ozean
-British Virgin Islands,"['VG', 'Virgin Islands, British']",VG,VGB,IVB,092,Americas,Caribbean,,,,Virgin Island (Brit.),Virgin Island (Brit.),Virgin Island (Brit.)
-Brunei,"['BN', 'Brunei Darussalam', 'Nation of Brunei', 'the Abode of Peace']",BN,BRN,BRU,096,Asia,South-Eastern Asia,144.0,,,Brunei,Brunei,Brunei
-Bulgaria,"['BG', 'Republic of Bulgaria', 'Република България']",BG,BGR,BUL,100,Europe,Southeast Europe,150.0,152.0,355.0,Bulgarien,Bulgarien,Bulgarien
-Burkina Faso,['BF'],BF,BFA,BUR,854,Africa,Western Africa,,54.0,439.0,Burkina Faso,Burkina Faso,Burkina Faso
-Burundi,"['BI', 'Republic of Burundi', ""Republika y'Uburundi"", 'République du Burundi']",BI,BDI,BDI,108,Africa,Eastern Africa,6.0,69.0,516.0,Burundi,Burundi,Burundi
-Cambodia,"['KH', 'Kingdom of Cambodia']",KH,KHM,CAM,116,Asia,South-Eastern Asia,310.0,55.0,811.0,Kambodscha,Kambodscha,Kambodscha
-Cameroon,"['CM', 'Republic of Cameroon', 'République du Cameroun']",CM,CMR,CMR,120,Africa,Middle Africa,7.0,108.0,471.0,Kamerun,Kamerun,Kamerun
-Canada,['CA'],CA,CAN,CAN,124,Americas,North America,50.0,66.0,20.0,Kanada,Kanada,Kanada
-Cape Verde,"['CV', 'Republic of Cabo Verde', 'República de Cabo Verde']",CV,CPV,CPV,132,Africa,Western Africa,,70.0,402.0,Kap Verde,Kap Verde,Kap Verde
-Caribbean Netherlands,['BES islands'],BQ,BES,[],535,Americas,Caribbean,,,,,,
-Cayman Islands,['KY'],KY,CYM,CAY,136,Americas,Caribbean,,,,Kaiman Inseln,Kaiman Inseln,Kaiman Inseln
-Central African Republic,"['CF', 'Central African Republic', 'République centrafricaine']",CF,CAF,CAF,140,Africa,Middle Africa,9.0,71.0,482.0,Zentralafrikanische Republik,Zentralafrikanische Republik,Zentralafrikanische Republik
-Chad,"['TD', 'Tchad', 'Republic of Chad', 'République du Tchad']",TD,TCD,CHA,148,Africa,Middle Africa,,109.0,483.0,Tschad,Tschad,Tschad
-Chile,"['CL', 'Republic of Chile', 'República de Chile']",CL,CHL,CHI,152,Americas,South America,70.0,72.0,155.0,Chile,Chile,Chile
-China,"['CN', 'Zhōngguó', 'Zhongguo', 'Zhonghua', ""People's Republic of China"", '中华人民共和国', 'Zhōnghuá Rénmín Gònghéguó']",CN,CHN,CHN,156,Asia,Eastern Asia,83.0,110.0,710.0,China,China,China
-Christmas Island,"['CX', 'Territory of Christmas Island']",CX,CXR,[],162,Oceania,Australia and New Zealand,,,,Christmas Island,Christmas Island,Christmas Island
-Cocos (Keeling) Islands,"['CC', 'Keeling Islands', 'Cocos Islands']",CC,CCK,[],166,Oceania,Australia and New Zealand,,,,Kokosinseln,Kokosinseln,Kokosinseln
-Colombia,"['CO', 'Republic of Colombia', 'República de Colombia']",CO,COL,COL,170,Americas,South America,71.0,15.0,100.0,Kolumbien,Kolumbien,Kolumbien
-Comoros,"['KM', 'Union of the Comoros', 'Union des Comores', 'Udzima wa Komori', 'al-Ittiḥād al-Qumurī']",KM,COM,COM,174,Africa,Eastern Africa,,153.0,581.0,Komoren,Komoren,Komoren
-Cook Islands,"['CK', ""Kūki 'Āirani""]",CK,COK,COK,184,Oceania,Polynesia,,,,Cook Inseln,Cook Inseln,Cook Inseln
-Costa Rica,"['CR', 'Republic of Costa Rica', 'República de Costa Rica']",CR,CRI,CRC,188,Americas,Central America,51.0,73.0,94.0,Costa Rica,Costa Rica,Costa Rica
-Croatia,"['HR', 'Hrvatska', 'Republic of Croatia', 'Republika Hrvatska']",HR,HRV,CRO,191,Europe,Southeast Europe,322.0,154.0,344.0,Kroatien,Kroatien,Kroatien
-Cuba,"['CU', 'Republic of Cuba', 'República de Cuba']",CU,CUB,CUB,192,Americas,Caribbean,155.0,155.0,40.0,Kuba,Kuba,Kuba
-Curaçao,"['CW', 'Curacao', 'Kòrsou', 'Country of Curaçao', 'Land Curaçao', 'Pais Kòrsou']",CW,CUW,[],531,Americas,Caribbean,,,,,,
-Cyprus,"['CY', 'Kýpros', 'Kıbrıs', 'Republic of Cyprus', 'Κυπριακή Δημοκρατία', 'Kıbrıs Cumhuriyeti']",CY,CYP,CYP,196,Europe,Southern Europe,109.0,156.0,352.0,Zypern,Zypern,Zypern
-Czechia,"['CZ', 'Česká republika', 'Česko', 'Czech Republic']",CZ,CZE,CZE,203,Europe,Central Europe,151.0,157.0,316.0,Tschechische Republik,Tschechische Republik,Tschechische Republik
-DR Congo,"['CD', 'DR Congo', 'Congo-Kinshasa', 'Congo, the Democratic Republic of the', 'DRC']",CD,COD,COD,180,Africa,Middle Africa,45.0,111.0,490.0,Demokratische Republik Kongo,Demokratische Republik Kongo,Demokratische Republik Kongo
-Denmark,"['DK', 'Danmark', 'Kingdom of Denmark', 'Kongeriget Danmark']",DK,DNK,DEN,208,Europe,Northern Europe,110.0,158.0,390.0,Dänemark,Dänemark,Dänemark
-Djibouti,"['DJ', 'Jabuuti', 'Gabuuti', 'Republic of Djibouti', 'République de Djibouti', 'Gabuutih Ummuuno', 'Jamhuuriyadda Jabuuti']",DJ,DJI,DJI,262,Africa,Eastern Africa,,113.0,522.0,Djibuti,Djibuti,Djibuti
-Dominica,"['DM', 'Dominique', 'Wai‘tu kubuli', 'Commonwealth of Dominica']",DM,DMA,DMA,212,Americas,Caribbean,,,,Dominika,Dominika,Dominika
-Dominican Republic,['DO'],DO,DOM,DOM,214,Americas,Caribbean,53.0,114.0,42.0,Dominikanische Republik,Dominikanische Republik,Dominikanische Republik
-Ecuador,"['EC', 'Republic of Ecuador', 'República del Ecuador']",EC,ECU,ECU,218,Americas,South America,72.0,75.0,130.0,Ecuador,Ecuador,Ecuador
-Egypt,"['EG', 'Arab Republic of Egypt']",EG,EGY,EGY,818,Africa,Northern Africa,13.0,13.0,651.0,Ägypten,Ägypten,Ägypten
-El Salvador,"['SV', 'Republic of El Salvador', 'República de El Salvador']",SV,SLV,ESA,222,Americas,Central America,54.0,22.0,92.0,El Salvador,El Salvador,El Salvador
-Equatorial Guinea,"['GQ', 'Republic of Equatorial Guinea', 'República de Guinea Ecuatorial', 'République de Guinée équatoriale', 'República da Guiné Equatorial']",GQ,GNQ,GEQ,226,Africa,Middle Africa,,160.0,411.0,Äquatorial Guinea,Äquatorial Guinea,Äquatorial Guinea
-Eritrea,"['ER', 'State of Eritrea', 'ሃገረ ኤርትራ', 'Dawlat Iritriyá', 'ʾErtrā', 'Iritriyā']",ER,ERI,ERI,232,Africa,Eastern Africa,,115.0,531.0,Eritrea,Eritrea,Eritrea
-Estonia,"['EE', 'Eesti', 'Republic of Estonia', 'Eesti Vabariik']",EE,EST,EST,233,Europe,Northern Europe,323.0,161.0,366.0,Estland,Estland,Estland
-Eswatini,"['SZ', 'Swaziland', 'weSwatini', 'Swatini', 'Ngwane', 'Kingdom of Eswatini', 'Umbuso weSwatini']",SZ,SWZ,SWZ,748,Africa,Southern Africa,40.0,132.0,572.0,Swasiland,Swasiland,Swasiland
-Ethiopia,"['ET', 'ʾĪtyōṗṗyā', 'Federal Democratic Republic of Ethiopia', 'የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ']",ET,ETH,ETH,231,Africa,Eastern Africa,,38.0,530.0,Äthiopien,Äthiopien,Äthiopien
-Falkland Islands,"['FK', 'Islas Malvinas', 'Falkland Islands (Malvinas)']",FK,FLK,[],238,Americas,South America,,,,Falkland Inseln,Falkland Inseln,Falkland Inseln
-Faroe Islands,"['FO', 'Føroyar', 'Færøerne']",FO,FRO,[],234,Europe,Northern Europe,,,,Färöer Inseln,Färöer Inseln,Färöer Inseln
-Fiji,"['FJ', 'Viti', 'Republic of Fiji', 'Matanitu ko Viti', 'Fijī Gaṇarājya']",FJ,FJI,FIJ,242,Oceania,Melanesia,132.0,162.0,950.0,Fidschi,Fidschi,Fidschi
-Finland,"['FI', 'Suomi', 'Republic of Finland', 'Suomen tasavalta', 'Republiken Finland']",FI,FIN,FIN,246,Europe,Northern Europe,111.0,163.0,375.0,Finnland,Finnland,Finnland
-France,"['FR', 'French Republic', 'République française']",FR,FRA,FRA,250,Europe,Western Europe,112.0,76.0,220.0,Frankreich,Frankreich,Frankreich
-French Guiana,"['GF', 'Guiana', 'Guyane']",GF,GUF,[],254,Americas,South America,,,,französisch Guyana,französisch Guyana,französisch Guyana
-French Polynesia,"['PF', 'Polynésie française', 'French Polynesia', 'Pōrīnetia Farāni']",PF,PYF,[],258,Oceania,Polynesia,,,,Französisch Polynesien,Französisch Polynesien,Französisch Polynesien
-French Southern and Antarctic Lands,"['TF', 'French Southern Territories']",TF,ATF,[],260,Antarctic,[],,,,Französisches Süd-Territorium,Französisches Süd-Territorium,Französisches Süd-Territorium
-Gabon,"['GA', 'Gabonese Republic', 'République Gabonaise']",GA,GAB,GAB,266,Africa,Middle Africa,15.0,116.0,481.0,Gabun,Gabun,Gabun
-Gambia,"['GM', 'Republic of the Gambia']",GM,GMB,GAM,270,Africa,Western Africa,16.0,117.0,420.0,Gambia,Gambia,Gambia
-Georgia,"['GE', 'Sakartvelo']",GE,GEO,GEO,268,Asia,Western Asia,,118.0,372.0,Georgien,Georgien,Georgien
-Germany,"['DE', 'Federal Republic of Germany', 'Bundesrepublik Deutschland']",DE,DEU,GER,276,Europe,Western Europe,190.0,77.0,255.0,Deutschland,Deutschland,Deutschland
-Ghana,['GH'],GH,GHA,GHA,288,Africa,Western Africa,17.0,7.0,452.0,Ghana,Ghana,Ghana
-Gibraltar,['GI'],GI,GIB,[],292,Europe,Southern Europe,,,,Gibraltar,Gibraltar,Gibraltar
-Greece,"['GR', 'Elláda', 'Hellenic Republic', 'Ελληνική Δημοκρατία']",GR,GRC,GRE,300,Europe,Southern Europe,114.0,164.0,350.0,Griechenland,Griechenland,Griechenland
-Greenland,"['GL', 'Grønland']",GL,GRL,[],304,Americas,North America,,,,Grönland,Grönland,Grönland
-Grenada,['GD'],GD,GRD,GRN,308,Americas,Caribbean,,,,Grenada,Grenada,Grenada
-Guadeloupe,"['GP', 'Gwadloup']",GP,GLP,[],312,Americas,Caribbean,,,,Guadeloupe,Guadeloupe,Guadeloupe
-Guam,"['GU', 'Guåhån']",GU,GUM,GUM,316,Oceania,Micronesia,,,,Guam,Guam,Guam
-Guatemala,['GT'],GT,GTM,GUA,320,Americas,Central America,56.0,78.0,90.0,Guatemala,Guatemala,Guatemala
-Guernsey,"['GG', 'Bailiwick of Guernsey', 'Bailliage de Guernesey']",GG,GGY,[],831,Europe,Northern Europe,,,,,,
-Guinea,"['GN', 'Republic of Guinea', 'République de Guinée']",GN,GIN,GUI,324,Africa,Western Africa,,63.0,438.0,Guinea,Guinea,Guinea
-Guinea-Bissau,"['GW', 'Republic of Guinea-Bissau', 'República da Guiné-Bissau']",GW,GNB,GBS,624,Africa,Western Africa,,119.0,404.0,Guinea Bissau,Guinea Bissau,Guinea Bissau
-Guyana,"['GY', 'Co-operative Republic of Guyana']",GY,GUY,GUY,328,Americas,South America,73.0,166.0,110.0,Guyana,Guyana,Guyana
-Haiti,"['HT', 'Republic of Haiti', ""République d'Haïti"", 'Repiblik Ayiti']",HT,HTI,HAI,332,Americas,Caribbean,57.0,26.0,41.0,Haiti,Haiti,Haiti
-Heard Island and McDonald Islands,"['HM', 'Heard Island and McDonald Islands']",HM,HMD,[],334,Antarctic,[],,,,Heard und McDonald Islands,Heard und McDonald Islands,Heard und McDonald Islands
-Honduras,"['HN', 'Republic of Honduras', 'República de Honduras']",HN,HND,HON,340,Americas,Central America,58.0,27.0,91.0,Honduras,Honduras,Honduras
-Hong Kong,['HK'],HK,HKG,HKG,344,Asia,Eastern Asia,84.0,,,Hong Kong,Hong Kong,Hong Kong
-Hungary,['HU'],HU,HUN,HUN,348,Europe,Central Europe,115.0,210.0,310.0,Ungarn,Ungarn,Ungarn
-Iceland,"['IS', 'Island', 'Republic of Iceland', 'Lýðveldið Ísland']",IS,ISL,ISL,352,Europe,Northern Europe,116.0,168.0,395.0,Island,Island,Island
-India,"['IN', 'Bhārat', 'Republic of India', 'Bharat Ganrajya', 'இந்தியா']",IN,IND,IND,356,Asia,Southern Asia,85.0,39.0,750.0,Indien,Indien,Indien
-Indonesia,"['ID', 'Republic of Indonesia', 'Republik Indonesia']",ID,IDN,INA,360,Asia,South-Eastern Asia,86.0,56.0,850.0,Indonesien,Indonesien,Indonesien
-Iran,"['IR', 'Islamic Republic of Iran', 'Iran, Islamic Republic of', 'Jomhuri-ye Eslāmi-ye Irān']",IR,IRN,IRI,364,Asia,Southern Asia,87.0,79.0,630.0,Iran,Iran,Iran
-Iraq,"['IQ', 'Republic of Iraq', 'Jumhūriyyat al-‘Irāq']",IQ,IRQ,IRQ,368,Asia,Western Asia,88.0,80.0,645.0,Irak,Irak,Irak
-Ireland,"['IE', 'Éire', 'Republic of Ireland', 'Poblacht na hÉireann']",IE,IRL,IRL,372,Europe,Northern Europe,117.0,81.0,205.0,Irland,Irland,Irland
-Isle of Man,"['IM', 'Ellan Vannin', 'Mann', 'Mannin']",IM,IMN,[],833,Europe,Northern Europe,,,,,,
-Israel,"['IL', 'State of Israel', ""Medīnat Yisrā'el""]",IL,ISR,ISR,376,Asia,Western Asia,89.0,169.0,666.0,Israel,Israel,Israel
-Italy,"['IT', 'Italian Republic', 'Repubblica italiana']",IT,ITA,ITA,380,Europe,Southern Europe,118.0,82.0,325.0,Italien,Italien,Italien
-Ivory Coast,"['CI', ""Côte d'Ivoire"", 'Ivory Coast', ""Republic of Côte d'Ivoire"", ""République de Côte d'Ivoire""]",CI,CIV,CIV,384,Africa,Western Africa,20.0,64.0,437.0,Elfenbeinküste,Elfenbeinküste,Elfenbeinküste
-Jamaica,['JM'],JM,JAM,JAM,388,Americas,Caribbean,59.0,120.0,51.0,Jamaika,Jamaika,Jamaika
-Japan,"['JP', 'Nippon', 'Nihon']",JP,JPN,JPN,392,Asia,Eastern Asia,90.0,9.0,740.0,Japan,Japan,Japan
-Jersey,"['JE', 'Bailiwick of Jersey', 'Bailliage de Jersey', 'Bailliage dé Jèrri']",JE,JEY,[],832,Europe,Northern Europe,,,,,,
-Jordan,"['JO', 'Hashemite Kingdom of Jordan', 'al-Mamlakah al-Urdunīyah al-Hāshimīyah']",JO,JOR,JOR,400,Asia,Western Asia,91.0,83.0,663.0,Jordanien,Jordanien,Jordanien
-Kazakhstan,"['KZ', 'Qazaqstan', 'Казахстан', 'Republic of Kazakhstan', 'Қазақстан Республикасы', 'Qazaqstan Respublïkası', 'Республика Казахстан', 'Respublika Kazakhstan']",KZ,KAZ,KAZ,398,Asia,Central Asia,312.0,121.0,705.0,Kasachstan,Kasachstan,Kasachstan
-Kenya,"['KE', 'Republic of Kenya', 'Jamhuri ya Kenya']",KE,KEN,KEN,404,Africa,Eastern Africa,21.0,40.0,501.0,Kenia,Kenia,Kenia
-Kiribati,"['KI', 'Republic of Kiribati', 'Ribaberiki Kiribati']",KI,KIR,KIR,296,Oceania,Micronesia,,,,Kiribati,Kiribati,Kiribati
-Kosovo,"['XK', 'Република Косово']",XK,UNK,KOS,[],Europe,Southeast Europe,,,,,,
-Kuwait,"['KW', 'State of Kuwait', 'Dawlat al-Kuwait']",KW,KWT,KUW,414,Asia,Western Asia,93.0,171.0,690.0,Kuwait,Kuwait,Kuwait
-Kyrgyzstan,"['KG', 'Киргизия', 'Kyrgyz Republic', 'Кыргыз Республикасы', 'Kyrgyz Respublikasy']",KG,KGZ,KGZ,417,Asia,Central Asia,313.0,122.0,703.0,Kirgisistan,Kirgisistan,Kirgisistan
-Laos,"['LA', 'Lao', ""Lao People's Democratic Republic"", 'Sathalanalat Paxathipatai Paxaxon Lao']",LA,LAO,LAO,418,Asia,South-Eastern Asia,314.0,123.0,812.0,Laos,Laos,Laos
-Latvia,"['LV', 'Republic of Latvia', 'Latvijas Republika']",LV,LVA,LAT,428,Europe,Northern Europe,324.0,84.0,367.0,Lettland,Lettland,Lettland
-Lebanon,"['LB', 'Lebanese Republic', 'Al-Jumhūrīyah Al-Libnānīyah']",LB,LBN,LBN,422,Asia,Western Asia,,44.0,660.0,Libanon,Libanon,Libanon
-Lesotho,"['LS', 'Kingdom of Lesotho', 'Muso oa Lesotho']",LS,LSO,LES,426,Africa,Southern Africa,22.0,85.0,570.0,Lesotho,Lesotho,Lesotho
-Liberia,"['LR', 'Republic of Liberia']",LR,LBR,LBR,430,Africa,Western Africa,23.0,86.0,450.0,Liberia,Liberia,Liberia
-Libya,"['LY', 'State of Libya', 'Dawlat Libya']",LY,LBY,LBA,434,Africa,Northern Africa,140.0,124.0,620.0,Libyen,Libyen,Libyen
-Liechtenstein,"['LI', 'Principality of Liechtenstein', 'Fürstentum Liechtenstein']",LI,LIE,LIE,438,Europe,Western Europe,,,,Liechtenstein,Liechtenstein,Liechtenstein
-Lithuania,"['LT', 'Republic of Lithuania', 'Lietuvos Respublika']",LT,LTU,LTU,440,Europe,Northern Europe,325.0,173.0,368.0,Litauen,Litauen,Litauen
-Luxembourg,"['LU', 'Grand Duchy of Luxembourg', 'Grand-Duché de Luxembourg', 'Großherzogtum Luxemburg', 'Groussherzogtum Lëtzebuerg']",LU,LUX,LUX,442,Europe,Western Europe,119.0,174.0,212.0,Luxemburg,Luxemburg,Luxemburg
-Macau,"['MO', '澳门', 'Macao', ""Macao Special Administrative Region of the People's Republic of China"", '中華人民共和國澳門特別行政區', 'Região Administrativa Especial de Macau da República Popular da China']",MO,MAC,[],446,Asia,Eastern Asia,342.0,,,Macao,Macao,Macao
-Madagascar,"['MG', 'Republic of Madagascar', ""Repoblikan'i Madagasikara"", 'République de Madagascar']",MG,MDG,MAD,450,Africa,Eastern Africa,,125.0,580.0,Madagaskar,Madagaskar,Madagaskar
-Malawi,"['MW', 'Republic of Malawi']",MW,MWI,MAW,454,Africa,Eastern Africa,25.0,87.0,553.0,Malawi,Malawi,Malawi
-Malaysia,['MY'],MY,MYS,MAS,458,Asia,South-Eastern Asia,94.0,177.0,820.0,Malaysia,Malaysia,Malaysia
-Maldives,"['MV', 'Maldive Islands', 'Republic of the Maldives', 'Dhivehi Raajjeyge Jumhooriyya']",MV,MDV,MDV,462,Asia,Southern Asia,315.0,88.0,781.0,Malediven,Malediven,Malediven
-Mali,"['ML', 'Republic of Mali', 'République du Mali']",ML,MLI,MLI,466,Africa,Western Africa,26.0,28.0,432.0,Mali,Mali,Mali
-Malta,"['MT', 'Republic of Malta', ""Repubblika ta' Malta""]",MT,MLT,MLT,470,Europe,Southern Europe,120.0,178.0,338.0,Malta,Malta,Malta
-Marshall Islands,"['MH', 'Republic of the Marshall Islands', 'Aolepān Aorōkin M̧ajeļ']",MH,MHL,MHL,584,Oceania,Micronesia,,,,Marshall Inseln,Marshall Inseln,Marshall Inseln
-Martinique,['MQ'],MQ,MTQ,[],474,Americas,Caribbean,,,,Martinique,Martinique,Martinique
-Mauritania,"['MR', 'Islamic Republic of Mauritania', 'al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah']",MR,MRT,MTN,478,Africa,Western Africa,27.0,65.0,435.0,Mauretanien,Mauretanien,Mauretanien
-Mauritius,"['MU', 'Republic of Mauritius', 'République de Maurice']",MU,MUS,MRI,480,Africa,Eastern Africa,28.0,180.0,590.0,Mauritius,Mauritius,Mauritius
-Mayotte,"['YT', 'Department of Mayotte', 'Département de Mayotte']",YT,MYT,[],175,Africa,Eastern Africa,,,,Mayotte,Mayotte,Mayotte
-Mexico,"['MX', 'Mexicanos', 'United Mexican States', 'Estados Unidos Mexicanos']",MX,MEX,MEX,484,Americas,North America,60.0,3.0,70.0,Mexiko,Mexiko,Mexiko
-Micronesia,"['FM', 'Federated States of Micronesia', 'Micronesia, Federated States of', 'Micronesia (Federated States of)']",FM,FSM,FSM,583,Oceania,Micronesia,,,,Mikronesien,Mikronesien,Mikronesien
-Moldova,"['MD', 'Moldova, Republic of', 'Republic of Moldova', 'Republica Moldova']",MD,MDA,MDA,498,Europe,Eastern Europe,,126.0,359.0,Moldavien,Moldavien,Moldavien
-Monaco,"['MC', 'Principality of Monaco', 'Principauté de Monaco']",MC,MCO,MON,492,Europe,Western Europe,,,,Monaco,Monaco,Monaco
-Mongolia,['MN'],MN,MNG,MGL,496,Asia,Eastern Asia,316.0,89.0,712.0,Mongolei,Mongolei,Mongolei
-Montenegro,"['ME', 'Crna Gora']",ME,MNE,MNE,499,Europe,Southeast Europe,,183.0,341.0,,,
-Montserrat,['MS'],MS,MSR,[],500,Americas,Caribbean,,,,Montserrat,Montserrat,Montserrat
-Morocco,"['MA', 'Kingdom of Morocco', 'Al-Mamlakah al-Maġribiyah']",MA,MAR,MAR,504,Africa,Northern Africa,29.0,90.0,600.0,Marokko,Marokko,Marokko
-Mozambique,"['MZ', 'Republic of Mozambique', 'República de Moçambique']",MZ,MOZ,MOZ,508,Africa,Eastern Africa,30.0,57.0,541.0,Mocambique,Mocambique,Mocambique
-Myanmar,"['MM', 'Burma', 'Republic of the Union of Myanmar', 'Pyidaunzu Thanmăda Myăma Nainngandaw']",MM,MMR,MYA,104,Asia,South-Eastern Asia,82.0,10.0,775.0,Birma,Birma,Birma
-Namibia,"['NA', 'Namibië', 'Republic of Namibia']",,NAM,NAM,516,Africa,Southern Africa,141.0,127.0,565.0,Namibia,Namibia,Namibia
-Nauru,"['NR', 'Naoero', 'Pleasant Island', 'Republic of Nauru', 'Ripublik Naoero']",NR,NRU,NRU,520,Oceania,Micronesia,,,,Nauru,Nauru,Nauru
-Nepal,"['NP', 'Federal Democratic Republic of Nepal', 'Loktāntrik Ganatantra Nepāl']",NP,NPL,NEP,524,Asia,Southern Asia,95.0,58.0,790.0,Nepal,Nepal,Nepal
-Netherlands,"['NL', 'Holland', 'Nederland', 'The Netherlands']",NL,NLD,NED,528,Europe,Western Europe,121.0,91.0,210.0,Niederlande,Niederlande,Niederlande
-New Caledonia,['NC'],NC,NCL,[],540,Oceania,Melanesia,,,,Neukaledonien,Neukaledonien,Neukaledonien
-New Zealand,"['NZ', 'Aotearoa']",NZ,NZL,NZL,554,Oceania,Australia and New Zealand,133.0,185.0,920.0,Neuseeland,Neuseeland,Neuseeland
-Nicaragua,"['NI', 'Republic of Nicaragua', 'República de Nicaragua']",NI,NIC,NCA,558,Americas,Central America,61.0,59.0,93.0,Nicaragua,Nicaragua,Nicaragua
-Niger,"['NE', 'Nijar']",NE,NER,NIG,562,Africa,Western Africa,31.0,60.0,436.0,Niger,Niger,Niger
-Nigeria,"['NG', 'Nijeriya', 'Naíjíríà', 'Federal Republic of Nigeria']",NG,NGA,NGR,566,Africa,Western Africa,,45.0,475.0,Nigeria,Nigeria,Nigeria
-Niue,['NU'],NU,NIU,[],570,Oceania,Polynesia,,,,Niue,Niue,Niue
-Norfolk Island,"['NF', 'Territory of Norfolk Island', ""Teratri of Norf'k Ailen""]",NF,NFK,[],574,Oceania,Australia and New Zealand,,,,Norfolk Inseln,Norfolk Inseln,Norfolk Inseln
-North Korea,"['KP', ""Democratic People's Republic of Korea"", 'DPRK', '조선민주주의인민공화국', 'Chosŏn Minjujuŭi Inmin Konghwaguk', ""Korea, Democratic People's Republic of"", '북한', '북조선']",KP,PRK,PRK,408,Asia,Eastern Asia,,,,Nord Korea,Nord Korea,Nord Korea
-North Macedonia,"['MK', 'The former Yugoslav Republic of Macedonia', 'Republic of North Macedonia', 'Macedonia, The Former Yugoslav Republic of', 'Република Северна Македонија']",MK,MKD,MKD,807,Europe,Southeast Europe,,176.0,343.0,Mazedonien,Mazedonien,Mazedonien
-Northern Mariana Islands,"['MP', 'Commonwealth of the Northern Mariana Islands', 'Sankattan Siha Na Islas Mariånas']",MP,MNP,[],580,Oceania,Micronesia,,,,Marianen,Marianen,Marianen
-Norway,"['NO', 'Norge', 'Noreg', 'Kingdom of Norway', 'Kongeriket Norge', 'Kongeriket Noreg']",NO,NOR,NOR,578,Europe,Northern Europe,122.0,186.0,385.0,Norwegen,Norwegen,Norwegen
-Oman,"['OM', 'Sultanate of Oman', 'Salṭanat ʻUmān']",OM,OMN,OMA,512,Asia,Western Asia,,187.0,698.0,Oman,Oman,Oman
-Pakistan,"['PK', 'Pākistān', 'Islamic Republic of Pakistan', ""Islāmī Jumhūriya'eh Pākistān""]",PK,PAK,PAK,586,Asia,Southern Asia,97.0,29.0,770.0,Pakistan,Pakistan,Pakistan
-Palau,"['PW', 'Republic of Palau', 'Beluu er a Belau']",PW,PLW,PLW,585,Oceania,Micronesia,,,,Palau,Palau,Palau
-Palestine,"['PS', 'Palestine, State of', 'State of Palestine', 'Dawlat Filasṭin']",PS,PSE,PLE,275,Asia,Western Asia,,,,Palästina,Palästina,Palästina
-Panama,"['PA', 'Republic of Panama', 'República de Panamá']",PA,PAN,PAN,591,Americas,Central America,62.0,92.0,95.0,Panama,Panama,Panama
-Papua New Guinea,"['PG', 'Independent State of Papua New Guinea', 'Independen Stet bilong Papua Niugini']",PG,PNG,PNG,598,Oceania,Melanesia,134.0,93.0,910.0,Papua Neuguinea,Papua Neuguinea,Papua Neuguinea
-Paraguay,"['PY', 'Republic of Paraguay', 'República del Paraguay', 'Tetã Paraguái']",PY,PRY,PAR,600,Americas,South America,74.0,189.0,150.0,Paraguay,Paraguay,Paraguay
-Peru,"['PE', 'Republic of Peru', 'República del Perú']",PE,PER,PER,604,Americas,South America,75.0,30.0,135.0,Peru,Peru,Peru
-Philippines,"['PH', 'Republic of the Philippines', 'Repúblika ng Pilipinas']",PH,PHL,PHI,608,Asia,South-Eastern Asia,98.0,46.0,840.0,Philippinen,Philippinen,Philippinen
-Pitcairn Islands,"['PN', 'Pitcairn', 'Pitcairn Henderson Ducie and Oeno Islands']",PN,PCN,[],612,Oceania,Polynesia,,,,Pitcairn,Pitcairn,Pitcairn
-Poland,"['PL', 'Republic of Poland', 'Rzeczpospolita Polska']",PL,POL,POL,616,Europe,Central Europe,123.0,17.0,290.0,Polen,Polen,Polen
-Portugal,"['PT', 'Portuguesa', 'Portuguese Republic', 'República Portuguesa']",PT,PRT,POR,620,Europe,Southern Europe,124.0,21.0,235.0,Portugal,Portugal,Portugal
-Puerto Rico,"['PR', 'Commonwealth of Puerto Rico', 'Estado Libre Asociado de Puerto Rico']",PR,PRI,PUR,630,Americas,Caribbean,,,,Puerto Rico,Puerto Rico,Puerto Rico
-Qatar,"['QA', 'State of Qatar', 'Dawlat Qaṭar']",QA,QAT,QAT,634,Asia,Western Asia,318.0,94.0,694.0,Qatar,Qatar,Qatar
-Republic of the Congo,"['CG', 'Congo', 'Congo-Brazzaville']",CG,COG,CGO,178,Africa,Middle Africa,12.0,112.0,484.0,Kongo,Kongo,Kongo
-Romania,"['RO', 'Rumania', 'Roumania', 'România']",RO,ROU,ROU,642,Europe,Southeast Europe,153.0,190.0,360.0,Rumänien,Rumänien,Rumänien
-Russia,"['RU', 'Russian Federation', 'Российская Федерация']",RU,RUS,RUS,643,Europe,Eastern Europe,154.0,11.0,365.0,Russland,Russland,Russland
-Rwanda,"['RW', 'Republic of Rwanda', ""Repubulika y'u Rwanda"", 'République du Rwanda']",RW,RWA,RWA,646,Africa,Eastern Africa,33.0,129.0,517.0,Ruanda,Ruanda,Ruanda
-Réunion,"['RE', 'Reunion']",RE,REU,[],638,Africa,Eastern Africa,142.0,,,Reunion,Reunion,Reunion
-Saint Barthélemy,"['BL', 'St. Barthelemy', 'Collectivity of Saint Barthélemy', 'Collectivité de Saint-Barthélemy']",BL,BLM,[],652,Americas,Caribbean,,,,,,
-"Saint Helena, Ascension and Tristan da Cunha","['Saint Helena', 'St. Helena, Ascension and Tristan da Cunha']",SH,SHN,[],654,Africa,Western Africa,,,,St. Helena,St. Helena,St. Helena
-Saint Kitts and Nevis,"['KN', 'Federation of Saint Christopher and Nevis']",KN,KNA,SKN,659,Americas,Caribbean,,,,St. Kitts Nevis Anguilla,St. Kitts Nevis Anguilla,St. Kitts Nevis Anguilla
-Saint Lucia,['LC'],LC,LCA,LCA,662,Americas,Caribbean,,,,Saint Lucia,Saint Lucia,Saint Lucia
-Saint Martin,"['MF', 'Collectivity of Saint Martin', 'Collectivité de Saint-Martin', 'Saint Martin (French part)']",MF,MAF,[],663,Americas,Caribbean,,,,,,
-Saint Pierre and Miquelon,"['PM', 'Collectivité territoriale de Saint-Pierre-et-Miquelon']",PM,SPM,[],666,Americas,North America,,,,St. Pierre und Miquelon,St. Pierre und Miquelon,St. Pierre und Miquelon
-Saint Vincent and the Grenadines,['VC'],VC,VCT,VIN,670,Americas,Caribbean,,,,St. Vincent,St. Vincent,St. Vincent
-Samoa,"['WS', 'Independent State of Samoa', 'Malo Saʻoloto Tutoʻatasi o Sāmoa']",WS,WSM,SAM,882,Oceania,Polynesia,,,,Samoa,Samoa,Samoa
-San Marino,"['SM', 'Republic of San Marino', 'Repubblica di San Marino']",SM,SMR,SMR,674,Europe,Southern Europe,,,,San Marino,San Marino,San Marino
-Saudi Arabia,"['Saudi', 'SA', 'Kingdom of Saudi Arabia', 'Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah']",SA,SAU,KSA,682,Asia,Western Asia,99.0,197.0,670.0,Saudi Arabien,Saudi Arabien,Saudi Arabien
-Senegal,"['SN', 'Republic of Senegal', 'République du Sénégal']",SN,SEN,SEN,686,Africa,Western Africa,34.0,31.0,433.0,Senegal,Senegal,Senegal
-Serbia,"['RS', 'Srbija', 'Republic of Serbia', 'Република Србија', 'Republika Srbija']",RS,SRB,SRB,688,Europe,Southeast Europe,,198.0,345.0,,,
-Seychelles,"['SC', 'Republic of Seychelles', 'Repiblik Sesel', 'République des Seychelles']",SC,SYC,SEY,690,Africa,Eastern Africa,,199.0,591.0,Seychellen,Seychellen,Seychellen
-Sierra Leone,"['SL', 'Republic of Sierra Leone']",SL,SLE,SLE,694,Africa,Western Africa,36.0,95.0,451.0,Sierra Leone,Sierra Leone,Sierra Leone
-Singapore,"['SG', 'Singapura', 'Republik Singapura', '新加坡共和国']",SG,SGP,SGP,702,Asia,South-Eastern Asia,100.0,200.0,830.0,Singapur,Singapur,Singapur
-Sint Maarten,"['SX', 'Sint Maarten (Dutch part)']",SX,SXM,[],534,Americas,Caribbean,,,,,,
-Slovakia,"['SK', 'Slovak Republic', 'Slovenská republika']",SK,SVK,SVK,703,Europe,Central Europe,170.0,201.0,317.0,Slowakei,Slowakei,Slowakei
-Slovenia,"['SI', 'Republic of Slovenia', 'Republika Slovenija']",SI,SVN,SLO,705,Europe,Central Europe,331.0,202.0,349.0,Slowenien,Slowenien,Slowenien
-Solomon Islands,['SB'],SB,SLB,SOL,090,Oceania,Melanesia,,203.0,940.0,Solomon Inseln,Solomon Inseln,Solomon Inseln
-Somalia,"['SO', 'aṣ-Ṣūmāl', 'Federal Republic of Somalia', 'Jamhuuriyadda Federaalka Soomaaliya', 'Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya']",SO,SOM,SOM,706,Africa,Eastern Africa,,130.0,520.0,Somalia,Somalia,Somalia
-South Africa,"['ZA', 'RSA', 'Suid-Afrika', 'Republic of South Africa']",ZA,ZAF,RSA,710,Africa,Southern Africa,38.0,8.0,560.0,Südafrika,Südafrika,Südafrika
-South Georgia,"['GS', 'South Georgia and the South Sandwich Islands']",GS,SGS,[],239,Antarctic,[],,,,Südgeorgien und die Südlichen Sandwichinseln,Südgeorgien und die Südlichen Sandwichinseln,Südgeorgien und die Südlichen Sandwichinseln
-South Korea,"['KR', 'Korea, Republic of', 'Republic of Korea', '남한', '남조선']",KR,KOR,KOR,410,Asia,Eastern Asia,92.0,42.0,732.0,Süd Korea,Süd Korea,Süd Korea
-South Sudan,['SS'],SS,SSD,SSD,728,Africa,Middle Africa,,32.0,626.0,,,
-Spain,"['ES', 'Kingdom of Spain', 'Reino de España']",ES,ESP,ESP,724,Europe,Southern Europe,125.0,96.0,230.0,Spanien,Spanien,Spanien
-Sri Lanka,"['LK', 'ilaṅkai', 'Democratic Socialist Republic of Sri Lanka']",LK,LKA,SRI,144,Asia,Southern Asia,101.0,131.0,780.0,Sri Lanka,Sri Lanka,Sri Lanka
-Sudan,"['SD', 'Republic of the Sudan', 'Jumhūrīyat as-Sūdān']",SD,SDN,SUD,729,Africa,Northern Africa,39.0,33.0,625.0,Sudan,Sudan,Sudan
-Suriname,"['SR', 'Sarnam', 'Sranangron', 'Republic of Suriname', 'Republiek Suriname']",SR,SUR,SUR,740,Americas,South America,,4.0,115.0,Surinam,Surinam,Surinam
-Svalbard and Jan Mayen,"['SJ', 'Svalbard and Jan Mayen Islands']",SJ,SJM,[],744,Europe,Northern Europe,,,,Svalbard und Jan Mayen Islands,Svalbard und Jan Mayen Islands,Svalbard und Jan Mayen Islands
-Sweden,"['SE', 'Kingdom of Sweden', 'Konungariket Sverige']",SE,SWE,SWE,752,Europe,Northern Europe,126.0,5.0,380.0,Schweden,Schweden,Schweden
-Switzerland,"['CH', 'Swiss Confederation', 'Schweiz', 'Suisse', 'Svizzera', 'Svizra']",CH,CHE,SUI,756,Europe,Western Europe,127.0,6.0,225.0,Schweiz,Schweiz,Schweiz
-Syria,"['SY', 'Syrian Arab Republic', 'Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah']",SY,SYR,SYR,760,Asia,Western Asia,102.0,97.0,652.0,Syrien,Syrien,Syrien
-São Tomé and Príncipe,"['ST', 'Democratic Republic of São Tomé and Príncipe', 'Sao Tome and Principe', 'República Democrática de São Tomé e Príncipe']",ST,STP,STP,678,Africa,Middle Africa,,196.0,403.0,Sao Tome,Sao Tome,Sao Tome
-Taiwan,"['TW', 'Táiwān', 'Republic of China', '中華民國', 'Zhōnghuá Mínguó', 'Chinese Taipei']",TW,TWN,TPE,158,Asia,Eastern Asia,103.0,48.0,713.0,Taiwan,Taiwan,Taiwan
-Tajikistan,"['TJ', 'Toçikiston', 'Republic of Tajikistan', 'Ҷумҳурии Тоҷикистон', 'Çumhuriyi Toçikiston']",TJ,TJK,TJK,762,Asia,Central Asia,319.0,133.0,702.0,Tadschikistan,Tadschikistan,Tadschikistan
-Tanzania,"['TZ', 'Tanzania, United Republic of', 'United Republic of Tanzania', 'Jamhuri ya Muungano wa Tanzania']",TZ,TZA,TAN,834,Africa,Eastern Africa,41.0,47.0,510.0,Tansania,Tansania,Tansania
-Thailand,"['TH', 'Prathet', 'Thai', 'Kingdom of Thailand', 'ราชอาณาจักรไทย', 'Ratcha Anachak Thai']",TH,THA,THA,764,Asia,South-Eastern Asia,104.0,49.0,800.0,Thailand,Thailand,Thailand
-Timor-Leste,"['TL', 'East Timor', 'Democratic Republic of Timor-Leste', 'República Democrática de Timor-Leste', 'Repúblika Demokrátika Timór-Leste', ""Timór Lorosa'e"", 'Timor Lorosae']",TL,TLS,TLS,626,Asia,South-Eastern Asia,,74.0,860.0,,,
-Togo,"['TG', 'Togolese', 'Togolese Republic', 'République Togolaise']",TG,TGO,TOG,768,Africa,Western Africa,42.0,134.0,461.0,Togo,Togo,Togo
-Tokelau,['TK'],TK,TKL,[],772,Oceania,Polynesia,,,,Tokelau,Tokelau,Tokelau
-Tonga,['TO'],TO,TON,TGA,776,Oceania,Polynesia,136.0,,,Tonga,Tonga,Tonga
-Trinidad and Tobago,"['TT', 'Republic of Trinidad and Tobago']",TT,TTO,TTO,780,Americas,Caribbean,65.0,135.0,52.0,Trinidad Tobago,Trinidad Tobago,Trinidad Tobago
-Tunisia,"['TN', 'Republic of Tunisia', 'al-Jumhūriyyah at-Tūnisiyyah']",TN,TUN,TUN,788,Africa,Northern Africa,43.0,98.0,616.0,Tunesien,Tunesien,Tunesien
-Turkey,"['TR', 'Turkiye', 'Republic of Turkey', 'Türkiye Cumhuriyeti', 'Türkiye']",TR,TUR,TUR,792,Asia,Western Asia,128.0,99.0,640.0,Türkei,Türkei,Türkei
-Turkmenistan,['TM'],TM,TKM,TKM,795,Asia,Central Asia,,136.0,701.0,Turkmenistan,Turkmenistan,Turkmenistan
-Turks and Caicos Islands,['TC'],TC,TCA,[],796,Americas,Caribbean,,,,Turks und Kaikos Inseln,Turks und Kaikos Inseln,Turks und Kaikos Inseln
-Tuvalu,['TV'],TV,TUV,TUV,798,Oceania,Polynesia,,,,Tuvalu,Tuvalu,Tuvalu
-Uganda,"['UG', 'Republic of Uganda', 'Jamhuri ya Uganda']",UG,UGA,UGA,800,Africa,Eastern Africa,44.0,50.0,500.0,Uganda,Uganda,Uganda
-Ukraine,"['UA', 'Ukrayina']",UA,UKR,UKR,804,Europe,Eastern Europe,358.0,100.0,369.0,Ukraine,Ukraine,Ukraine
-United Arab Emirates,"['AE', 'UAE', 'Emirates']",AE,ARE,UAE,784,Asia,Western Asia,105.0,207.0,696.0,Vereinigte Arabische Emirate,Vereinigte Arabische Emirate,Vereinigte Arabische Emirate
-United Kingdom,"['GB', 'UK', 'Great Britain']",GB,GBR,GBR,826,Europe,Northern Europe,129.0,101.0,200.0,Großbritannien (UK),Großbritannien (UK),Großbritannien (UK)
-United States,"['US', 'USA', 'United States of America']",US,USA,USA,840,Americas,North America,66.0,20.0,2.0,Vereinigte Staaten von Amerika,Vereinigte Staaten von Amerika,Vereinigte Staaten von Amerika
-United States Minor Outlying Islands,['UM'],UM,UMI,[],581,Americas,North America,,,,,,
-United States Virgin Islands,"['VI', 'Virgin Islands, U.S.']",VI,VIR,ISV,850,Americas,Caribbean,,,,Virgin Island (USA),Virgin Island (USA),Virgin Island (USA)
-Uruguay,"['UY', 'Oriental Republic of Uruguay', 'República Oriental del Uruguay']",UY,URY,URU,858,Americas,South America,77.0,102.0,165.0,Uruguay,Uruguay,Uruguay
-Uzbekistan,"['UZ', 'Republic of Uzbekistan', 'O‘zbekiston Respublikasi', 'Ўзбекистон Республикаси']",UZ,UZB,UZB,860,Asia,Central Asia,,140.0,704.0,Usbekistan,Usbekistan,Usbekistan
-Vanuatu,"['VU', 'Republic of Vanuatu', 'Ripablik blong Vanuatu', 'République de Vanuatu']",VU,VUT,VAN,548,Oceania,Melanesia,,206.0,935.0,Vanuatu,Vanuatu,Vanuatu
-Vatican City,"['VA', 'Holy See (Vatican City State)', 'Vatican City State', 'Stato della Città del Vaticano']",VA,VAT,[],336,Europe,Southern Europe,,,,Vatikan,Vatikan,Vatikan
-Venezuela,"['VE', 'Bolivarian Republic of Venezuela', 'Venezuela, Bolivarian Republic of', 'República Bolivariana de Venezuela']",VE,VEN,VEN,862,Americas,South America,78.0,51.0,101.0,Venezuela,Venezuela,Venezuela
-Vietnam,"['VN', 'Socialist Republic of Vietnam', 'Cộng hòa Xã hội chủ nghĩa Việt Nam', 'Viet Nam']",VN,VNM,VIE,704,Asia,South-Eastern Asia,320.0,34.0,816.0,Vietnam,Vietnam,Vietnam
-Wallis and Futuna,"['WF', 'Territory of the Wallis and Futuna Islands', 'Territoire des îles Wallis et Futuna']",WF,WLF,[],876,Oceania,Polynesia,,,,Wallis et Futuna,Wallis et Futuna,Wallis et Futuna
-Western Sahara,"['EH', 'Taneẓroft Tutrimt']",EH,ESH,[],732,Africa,Northern Africa,,,,Westsahara,Westsahara,Westsahara
-Yemen,"['YE', 'Yemeni Republic', 'al-Jumhūriyyah al-Yamaniyyah', 'Yemen Arab Republic']",YE,YEM,YEM,887,Asia,Western Asia,106.0,14.0,679.0,Jemen,Jemen,Jemen
-Yemen,"['YE', 'Yemeni Republic', 'al-Jumhūriyyah al-Yamaniyyah', 'Yemen Arab Republic']",YE,YEM,YEM,887,Asia,Western Asia,106.0,14.0,678.0,Jemen,Jemen,Jemen
-Zambia,"['ZM', 'Republic of Zambia']",ZM,ZMB,ZAM,894,Africa,Eastern Africa,46.0,61.0,551.0,Sambia,Sambia,Sambia
-Zimbabwe,"['ZW', 'Republic of Zimbabwe']",ZW,ZWE,ZIM,716,Africa,Southern Africa,47.0,62.0,552.0,Zimbabwe,Zimbabwe,Zimbabwe
-Åland Islands,"['AX', 'Aaland', 'Aland', 'Ahvenanmaa']",AX,ALA,[],248,Europe,Northern Europe,,,,,,
+country,alt_spell,iso2,iso,ioc,code,region,subregion,BarroLeeCodes,vdem_id,COWcode,Land
+Afghanistan,"['AF', 'Afġānistān']",AF,AFG,AFG,004,Asia,Southern Asia,79.0,36.0,700.0,Afghanistan
+Albania,"['AL', 'Shqipëri', 'Shqipëria', 'Shqipnia']",AL,ALB,ALB,008,Europe,Southeast Europe,156.0,12.0,339.0,Albanien
+Algeria,"['DZ', 'Dzayer', 'Algérie']",DZ,DZA,ALG,012,Africa,Northern Africa,1.0,103.0,615.0,Algerien
+American Samoa,"['AS', 'Amerika Sāmoa', 'Amelika Sāmoa', 'Sāmoa Amelika']",AS,ASM,ASA,016,Oceania,Polynesia,,,,Samoa
+Andorra,"['AD', 'Principality of Andorra', ""Principat d'Andorra""]",AD,AND,AND,020,Europe,Southern Europe,,,,Andorra
+Angola,"['AO', 'República de Angola', ""ʁɛpublika de an'ɡɔla""]",AO,AGO,ANG,024,Africa,Middle Africa,,104.0,540.0,Angola
+Anguilla,['AI'],AI,AIA,[],660,Americas,Caribbean,,,,Anguilla
+Antarctica,['AQ'],AQ,ATA,[],010,Antarctic,[],,,,Antarktis
+Antigua and Barbuda,['AG'],AG,ATG,ANT,028,Americas,Caribbean,,,,Antigua und Barbuda
+Argentina,"['AR', 'Argentine Republic', 'República Argentina']",AR,ARG,ARG,032,Americas,South America,67.0,37.0,160.0,Argentinien
+Armenia,"['AM', 'Hayastan', 'Republic of Armenia', 'Հայաստանի Հանրապետություն']",AM,ARM,ARM,051,Asia,Western Asia,308.0,105.0,371.0,Armenien
+Aruba,['AW'],AW,ABW,ARU,533,Americas,Caribbean,,,,Aruba
+Australia,['AU'],AU,AUS,AUS,036,Oceania,Australia and New Zealand,131.0,67.0,900.0,Australien
+Austria,"['AT', 'Osterreich', 'Oesterreich']",AT,AUT,AUT,040,Europe,Central Europe,107.0,144.0,305.0,Österreich
+Azerbaijan,"['AZ', 'Republic of Azerbaijan', 'Azərbaycan Respublikası']",AZ,AZE,AZE,031,Asia,Western Asia,,106.0,373.0,Aserbaidschan
+Bahamas,"['BS', 'Commonwealth of the Bahamas']",BS,BHS,BAH,044,Americas,Caribbean,,,,Bahamas
+Bahrain,"['BH', 'Kingdom of Bahrain', 'Mamlakat al-Baḥrayn']",BH,BHR,BHR,048,Asia,Western Asia,80.0,146.0,692.0,Bahrain
+Bangladesh,"['BD', ""People's Republic of Bangladesh"", 'Gônôprôjatôntri Bangladesh']",BD,BGD,BAN,050,Asia,Southern Asia,81.0,24.0,771.0,Bangladesh
+Barbados,['BB'],BB,BRB,BAR,052,Americas,Caribbean,49.0,147.0,53.0,Barbados
+Belarus,"['BY', 'Bielaruś', 'Republic of Belarus', 'Белоруссия', 'Республика Белоруссия']",BY,BLR,BLR,112,Europe,Eastern Europe,,107.0,370.0,Weissrussland
+Belgium,"['BE', 'België', 'Belgie', 'Belgien', 'Belgique', 'Kingdom of Belgium', 'Koninkrijk België', 'Royaume de Belgique', 'Königreich Belgien']",BE,BEL,BEL,056,Europe,Western Europe,108.0,148.0,211.0,Belgien
+Belize,['BZ'],BZ,BLZ,BIZ,084,Americas,Central America,143.0,,,Belize
+Benin,"['BJ', 'Republic of Benin', 'République du Bénin']",BJ,BEN,BEN,204,Africa,Western Africa,3.0,52.0,434.0,Benin
+Bermuda,"['BM', 'The Islands of Bermuda', 'The Bermudas', 'Somers Isles']",BM,BMU,BER,060,Americas,North America,,,,Bermudas
+Bhutan,"['BT', 'Kingdom of Bhutan']",BT,BTN,BHU,064,Asia,Southern Asia,,53.0,760.0,Bhutan
+Bolivia,"['BO', 'Buliwya', 'Wuliwya', 'Bolivia, Plurinational State of', 'Plurinational State of Bolivia', 'Estado Plurinacional de Bolivia', 'Buliwya Mamallaqta', 'Wuliwya Suyu', 'Tetã Volívia']",BO,BOL,BOL,068,Americas,South America,68.0,25.0,145.0,Bolivien
+Bosnia and Herzegovina,"['BA', 'Bosnia-Herzegovina', 'Босна и Херцеговина']",BA,BIH,BIH,070,Europe,Southeast Europe,,150.0,346.0,Bosnien-Herzegowina
+Botswana,"['BW', 'Republic of Botswana', 'Lefatshe la Botswana']",BW,BWA,BOT,072,Africa,Southern Africa,4.0,68.0,571.0,Botswana
+Bouvet Island,"['BV', 'Bouvetøya', 'Bouvet-øya']",BV,BVT,[],074,Antarctic,[],,,,Bouvet Inseln
+Brazil,"['BR', 'Brasil', 'Federative Republic of Brazil', 'República Federativa do Brasil']",BR,BRA,BRA,076,Americas,South America,69.0,19.0,140.0,Brasilien
+British Indian Ocean Territory,['IO'],IO,IOT,[],086,Africa,Eastern Africa,,,,Britisch-Indischer Ozean
+British Virgin Islands,"['VG', 'Virgin Islands, British']",VG,VGB,IVB,092,Americas,Caribbean,,,,Virgin Island (Brit.)
+Brunei,"['BN', 'Brunei Darussalam', 'Nation of Brunei', 'the Abode of Peace']",BN,BRN,BRU,096,Asia,South-Eastern Asia,144.0,,,Brunei
+Bulgaria,"['BG', 'Republic of Bulgaria', 'Република България']",BG,BGR,BUL,100,Europe,Southeast Europe,150.0,152.0,355.0,Bulgarien
+Burkina Faso,['BF'],BF,BFA,BUR,854,Africa,Western Africa,,54.0,439.0,Burkina Faso
+Burundi,"['BI', 'Republic of Burundi', ""Republika y'Uburundi"", 'République du Burundi']",BI,BDI,BDI,108,Africa,Eastern Africa,6.0,69.0,516.0,Burundi
+Cambodia,"['KH', 'Kingdom of Cambodia']",KH,KHM,CAM,116,Asia,South-Eastern Asia,310.0,55.0,811.0,Kambodscha
+Cameroon,"['CM', 'Republic of Cameroon', 'République du Cameroun']",CM,CMR,CMR,120,Africa,Middle Africa,7.0,108.0,471.0,Kamerun
+Canada,['CA'],CA,CAN,CAN,124,Americas,North America,50.0,66.0,20.0,Kanada
+Cape Verde,"['CV', 'Republic of Cabo Verde', 'República de Cabo Verde']",CV,CPV,CPV,132,Africa,Western Africa,,70.0,402.0,Kap Verde
+Caribbean Netherlands,['BES islands'],BQ,BES,[],535,Americas,Caribbean,,,,
+Cayman Islands,['KY'],KY,CYM,CAY,136,Americas,Caribbean,,,,Kaiman Inseln
+Central African Republic,"['CF', 'Central African Republic', 'République centrafricaine']",CF,CAF,CAF,140,Africa,Middle Africa,9.0,71.0,482.0,Zentralafrikanische Republik
+Chad,"['TD', 'Tchad', 'Republic of Chad', 'République du Tchad']",TD,TCD,CHA,148,Africa,Middle Africa,,109.0,483.0,Tschad
+Chile,"['CL', 'Republic of Chile', 'República de Chile']",CL,CHL,CHI,152,Americas,South America,70.0,72.0,155.0,Chile
+China,"['CN', 'Zhōngguó', 'Zhongguo', 'Zhonghua', ""People's Republic of China"", '中华人民共和国', 'Zhōnghuá Rénmín Gònghéguó']",CN,CHN,CHN,156,Asia,Eastern Asia,83.0,110.0,710.0,China
+Christmas Island,"['CX', 'Territory of Christmas Island']",CX,CXR,[],162,Oceania,Australia and New Zealand,,,,Christmas Island
+Cocos (Keeling) Islands,"['CC', 'Keeling Islands', 'Cocos Islands']",CC,CCK,[],166,Oceania,Australia and New Zealand,,,,Kokosinseln
+Colombia,"['CO', 'Republic of Colombia', 'República de Colombia']",CO,COL,COL,170,Americas,South America,71.0,15.0,100.0,Kolumbien
+Comoros,"['KM', 'Union of the Comoros', 'Union des Comores', 'Udzima wa Komori', 'al-Ittiḥād al-Qumurī']",KM,COM,COM,174,Africa,Eastern Africa,,153.0,581.0,Komoren
+Cook Islands,"['CK', ""Kūki 'Āirani""]",CK,COK,COK,184,Oceania,Polynesia,,,,Cook Inseln
+Costa Rica,"['CR', 'Republic of Costa Rica', 'República de Costa Rica']",CR,CRI,CRC,188,Americas,Central America,51.0,73.0,94.0,Costa Rica
+Croatia,"['HR', 'Hrvatska', 'Republic of Croatia', 'Republika Hrvatska']",HR,HRV,CRO,191,Europe,Southeast Europe,322.0,154.0,344.0,Kroatien
+Cuba,"['CU', 'Republic of Cuba', 'República de Cuba']",CU,CUB,CUB,192,Americas,Caribbean,155.0,155.0,40.0,Kuba
+Curaçao,"['CW', 'Curacao', 'Kòrsou', 'Country of Curaçao', 'Land Curaçao', 'Pais Kòrsou']",CW,CUW,[],531,Americas,Caribbean,,,,
+Cyprus,"['CY', 'Kýpros', 'Kıbrıs', 'Republic of Cyprus', 'Κυπριακή Δημοκρατία', 'Kıbrıs Cumhuriyeti']",CY,CYP,CYP,196,Europe,Southern Europe,109.0,156.0,352.0,Zypern
+Czechia,"['CZ', 'Česká republika', 'Česko', 'Czech Republic']",CZ,CZE,CZE,203,Europe,Central Europe,151.0,157.0,316.0,Tschechische Republik
+DR Congo,"['CD', 'DR Congo', 'Congo-Kinshasa', 'Congo, the Democratic Republic of the', 'DRC']",CD,COD,COD,180,Africa,Middle Africa,45.0,111.0,490.0,Demokratische Republik Kongo
+Denmark,"['DK', 'Danmark', 'Kingdom of Denmark', 'Kongeriget Danmark']",DK,DNK,DEN,208,Europe,Northern Europe,110.0,158.0,390.0,Dänemark
+Djibouti,"['DJ', 'Jabuuti', 'Gabuuti', 'Republic of Djibouti', 'République de Djibouti', 'Gabuutih Ummuuno', 'Jamhuuriyadda Jabuuti']",DJ,DJI,DJI,262,Africa,Eastern Africa,,113.0,522.0,Djibuti
+Dominica,"['DM', 'Dominique', 'Wai‘tu kubuli', 'Commonwealth of Dominica']",DM,DMA,DMA,212,Americas,Caribbean,,,,Dominika
+Dominican Republic,['DO'],DO,DOM,DOM,214,Americas,Caribbean,53.0,114.0,42.0,Dominikanische Republik
+Ecuador,"['EC', 'Republic of Ecuador', 'República del Ecuador']",EC,ECU,ECU,218,Americas,South America,72.0,75.0,130.0,Ecuador
+Egypt,"['EG', 'Arab Republic of Egypt']",EG,EGY,EGY,818,Africa,Northern Africa,13.0,13.0,651.0,Ägypten
+El Salvador,"['SV', 'Republic of El Salvador', 'República de El Salvador']",SV,SLV,ESA,222,Americas,Central America,54.0,22.0,92.0,El Salvador
+Equatorial Guinea,"['GQ', 'Republic of Equatorial Guinea', 'República de Guinea Ecuatorial', 'République de Guinée équatoriale', 'República da Guiné Equatorial']",GQ,GNQ,GEQ,226,Africa,Middle Africa,,160.0,411.0,Äquatorial Guinea
+Eritrea,"['ER', 'State of Eritrea', 'ሃገረ ኤርትራ', 'Dawlat Iritriyá', 'ʾErtrā', 'Iritriyā']",ER,ERI,ERI,232,Africa,Eastern Africa,,115.0,531.0,Eritrea
+Estonia,"['EE', 'Eesti', 'Republic of Estonia', 'Eesti Vabariik']",EE,EST,EST,233,Europe,Northern Europe,323.0,161.0,366.0,Estland
+Eswatini,"['SZ', 'Swaziland', 'weSwatini', 'Swatini', 'Ngwane', 'Kingdom of Eswatini', 'Umbuso weSwatini']",SZ,SWZ,SWZ,748,Africa,Southern Africa,40.0,132.0,572.0,Swasiland
+Ethiopia,"['ET', 'ʾĪtyōṗṗyā', 'Federal Democratic Republic of Ethiopia', 'የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ']",ET,ETH,ETH,231,Africa,Eastern Africa,,38.0,530.0,Äthiopien
+Falkland Islands,"['FK', 'Islas Malvinas', 'Falkland Islands (Malvinas)']",FK,FLK,[],238,Americas,South America,,,,Falkland Inseln
+Faroe Islands,"['FO', 'Føroyar', 'Færøerne']",FO,FRO,[],234,Europe,Northern Europe,,,,Färöer Inseln
+Fiji,"['FJ', 'Viti', 'Republic of Fiji', 'Matanitu ko Viti', 'Fijī Gaṇarājya']",FJ,FJI,FIJ,242,Oceania,Melanesia,132.0,162.0,950.0,Fidschi
+Finland,"['FI', 'Suomi', 'Republic of Finland', 'Suomen tasavalta', 'Republiken Finland']",FI,FIN,FIN,246,Europe,Northern Europe,111.0,163.0,375.0,Finnland
+France,"['FR', 'French Republic', 'République française']",FR,FRA,FRA,250,Europe,Western Europe,112.0,76.0,220.0,Frankreich
+French Guiana,"['GF', 'Guiana', 'Guyane']",GF,GUF,[],254,Americas,South America,,,,französisch Guyana
+French Polynesia,"['PF', 'Polynésie française', 'French Polynesia', 'Pōrīnetia Farāni']",PF,PYF,[],258,Oceania,Polynesia,,,,Französisch Polynesien
+French Southern and Antarctic Lands,"['TF', 'French Southern Territories']",TF,ATF,[],260,Antarctic,[],,,,Französisches Süd-Territorium
+Gabon,"['GA', 'Gabonese Republic', 'République Gabonaise']",GA,GAB,GAB,266,Africa,Middle Africa,15.0,116.0,481.0,Gabun
+Gambia,"['GM', 'Republic of the Gambia']",GM,GMB,GAM,270,Africa,Western Africa,16.0,117.0,420.0,Gambia
+Georgia,"['GE', 'Sakartvelo']",GE,GEO,GEO,268,Asia,Western Asia,,118.0,372.0,Georgien
+Germany,"['DE', 'Federal Republic of Germany', 'Bundesrepublik Deutschland']",DE,DEU,GER,276,Europe,Western Europe,190.0,77.0,255.0,Deutschland
+Ghana,['GH'],GH,GHA,GHA,288,Africa,Western Africa,17.0,7.0,452.0,Ghana
+Gibraltar,['GI'],GI,GIB,[],292,Europe,Southern Europe,,,,Gibraltar
+Greece,"['GR', 'Elláda', 'Hellenic Republic', 'Ελληνική Δημοκρατία']",GR,GRC,GRE,300,Europe,Southern Europe,114.0,164.0,350.0,Griechenland
+Greenland,"['GL', 'Grønland']",GL,GRL,[],304,Americas,North America,,,,Grönland
+Grenada,['GD'],GD,GRD,GRN,308,Americas,Caribbean,,,,Grenada
+Guadeloupe,"['GP', 'Gwadloup']",GP,GLP,[],312,Americas,Caribbean,,,,Guadeloupe
+Guam,"['GU', 'Guåhån']",GU,GUM,GUM,316,Oceania,Micronesia,,,,Guam
+Guatemala,['GT'],GT,GTM,GUA,320,Americas,Central America,56.0,78.0,90.0,Guatemala
+Guernsey,"['GG', 'Bailiwick of Guernsey', 'Bailliage de Guernesey']",GG,GGY,[],831,Europe,Northern Europe,,,,
+Guinea,"['GN', 'Republic of Guinea', 'République de Guinée']",GN,GIN,GUI,324,Africa,Western Africa,,63.0,438.0,Guinea
+Guinea-Bissau,"['GW', 'Republic of Guinea-Bissau', 'República da Guiné-Bissau']",GW,GNB,GBS,624,Africa,Western Africa,,119.0,404.0,Guinea Bissau
+Guyana,"['GY', 'Co-operative Republic of Guyana']",GY,GUY,GUY,328,Americas,South America,73.0,166.0,110.0,Guyana
+Haiti,"['HT', 'Republic of Haiti', ""République d'Haïti"", 'Repiblik Ayiti']",HT,HTI,HAI,332,Americas,Caribbean,57.0,26.0,41.0,Haiti
+Heard Island and McDonald Islands,"['HM', 'Heard Island and McDonald Islands']",HM,HMD,[],334,Antarctic,[],,,,Heard und McDonald Islands
+Honduras,"['HN', 'Republic of Honduras', 'República de Honduras']",HN,HND,HON,340,Americas,Central America,58.0,27.0,91.0,Honduras
+Hong Kong,['HK'],HK,HKG,HKG,344,Asia,Eastern Asia,84.0,,,Hong Kong
+Hungary,['HU'],HU,HUN,HUN,348,Europe,Central Europe,115.0,210.0,310.0,Ungarn
+Iceland,"['IS', 'Island', 'Republic of Iceland', 'Lýðveldið Ísland']",IS,ISL,ISL,352,Europe,Northern Europe,116.0,168.0,395.0,Island
+India,"['IN', 'Bhārat', 'Republic of India', 'Bharat Ganrajya', 'இந்தியா']",IN,IND,IND,356,Asia,Southern Asia,85.0,39.0,750.0,Indien
+Indonesia,"['ID', 'Republic of Indonesia', 'Republik Indonesia']",ID,IDN,INA,360,Asia,South-Eastern Asia,86.0,56.0,850.0,Indonesien
+Iran,"['IR', 'Islamic Republic of Iran', 'Iran, Islamic Republic of', 'Jomhuri-ye Eslāmi-ye Irān']",IR,IRN,IRI,364,Asia,Southern Asia,87.0,79.0,630.0,Iran
+Iraq,"['IQ', 'Republic of Iraq', 'Jumhūriyyat al-‘Irāq']",IQ,IRQ,IRQ,368,Asia,Western Asia,88.0,80.0,645.0,Irak
+Ireland,"['IE', 'Éire', 'Republic of Ireland', 'Poblacht na hÉireann']",IE,IRL,IRL,372,Europe,Northern Europe,117.0,81.0,205.0,Irland
+Isle of Man,"['IM', 'Ellan Vannin', 'Mann', 'Mannin']",IM,IMN,[],833,Europe,Northern Europe,,,,
+Israel,"['IL', 'State of Israel', ""Medīnat Yisrā'el""]",IL,ISR,ISR,376,Asia,Western Asia,89.0,169.0,666.0,Israel
+Italy,"['IT', 'Italian Republic', 'Repubblica italiana']",IT,ITA,ITA,380,Europe,Southern Europe,118.0,82.0,325.0,Italien
+Ivory Coast,"['CI', ""Côte d'Ivoire"", 'Ivory Coast', ""Republic of Côte d'Ivoire"", ""République de Côte d'Ivoire""]",CI,CIV,CIV,384,Africa,Western Africa,20.0,64.0,437.0,Elfenbeinküste
+Jamaica,['JM'],JM,JAM,JAM,388,Americas,Caribbean,59.0,120.0,51.0,Jamaika
+Japan,"['JP', 'Nippon', 'Nihon']",JP,JPN,JPN,392,Asia,Eastern Asia,90.0,9.0,740.0,Japan
+Jersey,"['JE', 'Bailiwick of Jersey', 'Bailliage de Jersey', 'Bailliage dé Jèrri']",JE,JEY,[],832,Europe,Northern Europe,,,,
+Jordan,"['JO', 'Hashemite Kingdom of Jordan', 'al-Mamlakah al-Urdunīyah al-Hāshimīyah']",JO,JOR,JOR,400,Asia,Western Asia,91.0,83.0,663.0,Jordanien
+Kazakhstan,"['KZ', 'Qazaqstan', 'Казахстан', 'Republic of Kazakhstan', 'Қазақстан Республикасы', 'Qazaqstan Respublïkası', 'Республика Казахстан', 'Respublika Kazakhstan']",KZ,KAZ,KAZ,398,Asia,Central Asia,312.0,121.0,705.0,Kasachstan
+Kenya,"['KE', 'Republic of Kenya', 'Jamhuri ya Kenya']",KE,KEN,KEN,404,Africa,Eastern Africa,21.0,40.0,501.0,Kenia
+Kiribati,"['KI', 'Republic of Kiribati', 'Ribaberiki Kiribati']",KI,KIR,KIR,296,Oceania,Micronesia,,,,Kiribati
+Kosovo,"['XK', 'Република Косово']",XK,UNK,KOS,[],Europe,Southeast Europe,,,,
+Kuwait,"['KW', 'State of Kuwait', 'Dawlat al-Kuwait']",KW,KWT,KUW,414,Asia,Western Asia,93.0,171.0,690.0,Kuwait
+Kyrgyzstan,"['KG', 'Киргизия', 'Kyrgyz Republic', 'Кыргыз Республикасы', 'Kyrgyz Respublikasy']",KG,KGZ,KGZ,417,Asia,Central Asia,313.0,122.0,703.0,Kirgisistan
+Laos,"['LA', 'Lao', ""Lao People's Democratic Republic"", 'Sathalanalat Paxathipatai Paxaxon Lao']",LA,LAO,LAO,418,Asia,South-Eastern Asia,314.0,123.0,812.0,Laos
+Latvia,"['LV', 'Republic of Latvia', 'Latvijas Republika']",LV,LVA,LAT,428,Europe,Northern Europe,324.0,84.0,367.0,Lettland
+Lebanon,"['LB', 'Lebanese Republic', 'Al-Jumhūrīyah Al-Libnānīyah']",LB,LBN,LBN,422,Asia,Western Asia,,44.0,660.0,Libanon
+Lesotho,"['LS', 'Kingdom of Lesotho', 'Muso oa Lesotho']",LS,LSO,LES,426,Africa,Southern Africa,22.0,85.0,570.0,Lesotho
+Liberia,"['LR', 'Republic of Liberia']",LR,LBR,LBR,430,Africa,Western Africa,23.0,86.0,450.0,Liberia
+Libya,"['LY', 'State of Libya', 'Dawlat Libya']",LY,LBY,LBA,434,Africa,Northern Africa,140.0,124.0,620.0,Libyen
+Liechtenstein,"['LI', 'Principality of Liechtenstein', 'Fürstentum Liechtenstein']",LI,LIE,LIE,438,Europe,Western Europe,,,,Liechtenstein
+Lithuania,"['LT', 'Republic of Lithuania', 'Lietuvos Respublika']",LT,LTU,LTU,440,Europe,Northern Europe,325.0,173.0,368.0,Litauen
+Luxembourg,"['LU', 'Grand Duchy of Luxembourg', 'Grand-Duché de Luxembourg', 'Großherzogtum Luxemburg', 'Groussherzogtum Lëtzebuerg']",LU,LUX,LUX,442,Europe,Western Europe,119.0,174.0,212.0,Luxemburg
+Macau,"['MO', '澳门', 'Macao', ""Macao Special Administrative Region of the People's Republic of China"", '中華人民共和國澳門特別行政區', 'Região Administrativa Especial de Macau da República Popular da China']",MO,MAC,[],446,Asia,Eastern Asia,342.0,,,Macao
+Madagascar,"['MG', 'Republic of Madagascar', ""Repoblikan'i Madagasikara"", 'République de Madagascar']",MG,MDG,MAD,450,Africa,Eastern Africa,,125.0,580.0,Madagaskar
+Malawi,"['MW', 'Republic of Malawi']",MW,MWI,MAW,454,Africa,Eastern Africa,25.0,87.0,553.0,Malawi
+Malaysia,['MY'],MY,MYS,MAS,458,Asia,South-Eastern Asia,94.0,177.0,820.0,Malaysia
+Maldives,"['MV', 'Maldive Islands', 'Republic of the Maldives', 'Dhivehi Raajjeyge Jumhooriyya']",MV,MDV,MDV,462,Asia,Southern Asia,315.0,88.0,781.0,Malediven
+Mali,"['ML', 'Republic of Mali', 'République du Mali']",ML,MLI,MLI,466,Africa,Western Africa,26.0,28.0,432.0,Mali
+Malta,"['MT', 'Republic of Malta', ""Repubblika ta' Malta""]",MT,MLT,MLT,470,Europe,Southern Europe,120.0,178.0,338.0,Malta
+Marshall Islands,"['MH', 'Republic of the Marshall Islands', 'Aolepān Aorōkin M̧ajeļ']",MH,MHL,MHL,584,Oceania,Micronesia,,,,Marshall Inseln
+Martinique,['MQ'],MQ,MTQ,[],474,Americas,Caribbean,,,,Martinique
+Mauritania,"['MR', 'Islamic Republic of Mauritania', 'al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah']",MR,MRT,MTN,478,Africa,Western Africa,27.0,65.0,435.0,Mauretanien
+Mauritius,"['MU', 'Republic of Mauritius', 'République de Maurice']",MU,MUS,MRI,480,Africa,Eastern Africa,28.0,180.0,590.0,Mauritius
+Mayotte,"['YT', 'Department of Mayotte', 'Département de Mayotte']",YT,MYT,[],175,Africa,Eastern Africa,,,,Mayotte
+Mexico,"['MX', 'Mexicanos', 'United Mexican States', 'Estados Unidos Mexicanos']",MX,MEX,MEX,484,Americas,North America,60.0,3.0,70.0,Mexiko
+Micronesia,"['FM', 'Federated States of Micronesia', 'Micronesia, Federated States of', 'Micronesia (Federated States of)']",FM,FSM,FSM,583,Oceania,Micronesia,,,,Mikronesien
+Moldova,"['MD', 'Moldova, Republic of', 'Republic of Moldova', 'Republica Moldova']",MD,MDA,MDA,498,Europe,Eastern Europe,,126.0,359.0,Moldavien
+Monaco,"['MC', 'Principality of Monaco', 'Principauté de Monaco']",MC,MCO,MON,492,Europe,Western Europe,,,,Monaco
+Mongolia,['MN'],MN,MNG,MGL,496,Asia,Eastern Asia,316.0,89.0,712.0,Mongolei
+Montenegro,"['ME', 'Crna Gora']",ME,MNE,MNE,499,Europe,Southeast Europe,,183.0,341.0,
+Montserrat,['MS'],MS,MSR,[],500,Americas,Caribbean,,,,Montserrat
+Morocco,"['MA', 'Kingdom of Morocco', 'Al-Mamlakah al-Maġribiyah']",MA,MAR,MAR,504,Africa,Northern Africa,29.0,90.0,600.0,Marokko
+Mozambique,"['MZ', 'Republic of Mozambique', 'República de Moçambique']",MZ,MOZ,MOZ,508,Africa,Eastern Africa,30.0,57.0,541.0,Mocambique
+Myanmar,"['MM', 'Burma', 'Republic of the Union of Myanmar', 'Pyidaunzu Thanmăda Myăma Nainngandaw']",MM,MMR,MYA,104,Asia,South-Eastern Asia,82.0,10.0,775.0,Birma
+Namibia,"['NA', 'Namibië', 'Republic of Namibia']",,NAM,NAM,516,Africa,Southern Africa,141.0,127.0,565.0,Namibia
+Nauru,"['NR', 'Naoero', 'Pleasant Island', 'Republic of Nauru', 'Ripublik Naoero']",NR,NRU,NRU,520,Oceania,Micronesia,,,,Nauru
+Nepal,"['NP', 'Federal Democratic Republic of Nepal', 'Loktāntrik Ganatantra Nepāl']",NP,NPL,NEP,524,Asia,Southern Asia,95.0,58.0,790.0,Nepal
+Netherlands,"['NL', 'Holland', 'Nederland', 'The Netherlands']",NL,NLD,NED,528,Europe,Western Europe,121.0,91.0,210.0,Niederlande
+New Caledonia,['NC'],NC,NCL,[],540,Oceania,Melanesia,,,,Neukaledonien
+New Zealand,"['NZ', 'Aotearoa']",NZ,NZL,NZL,554,Oceania,Australia and New Zealand,133.0,185.0,920.0,Neuseeland
+Nicaragua,"['NI', 'Republic of Nicaragua', 'República de Nicaragua']",NI,NIC,NCA,558,Americas,Central America,61.0,59.0,93.0,Nicaragua
+Niger,"['NE', 'Nijar']",NE,NER,NIG,562,Africa,Western Africa,31.0,60.0,436.0,Niger
+Nigeria,"['NG', 'Nijeriya', 'Naíjíríà', 'Federal Republic of Nigeria']",NG,NGA,NGR,566,Africa,Western Africa,,45.0,475.0,Nigeria
+Niue,['NU'],NU,NIU,[],570,Oceania,Polynesia,,,,Niue
+Norfolk Island,"['NF', 'Territory of Norfolk Island', ""Teratri of Norf'k Ailen""]",NF,NFK,[],574,Oceania,Australia and New Zealand,,,,Norfolk Inseln
+North Korea,"['KP', ""Democratic People's Republic of Korea"", 'DPRK', '조선민주주의인민공화국', 'Chosŏn Minjujuŭi Inmin Konghwaguk', ""Korea, Democratic People's Republic of"", '북한', '북조선']",KP,PRK,PRK,408,Asia,Eastern Asia,,,,Nord Korea
+North Macedonia,"['MK', 'The former Yugoslav Republic of Macedonia', 'Republic of North Macedonia', 'Macedonia, The Former Yugoslav Republic of', 'Република Северна Македонија']",MK,MKD,MKD,807,Europe,Southeast Europe,,176.0,343.0,Mazedonien
+Northern Mariana Islands,"['MP', 'Commonwealth of the Northern Mariana Islands', 'Sankattan Siha Na Islas Mariånas']",MP,MNP,[],580,Oceania,Micronesia,,,,Marianen
+Norway,"['NO', 'Norge', 'Noreg', 'Kingdom of Norway', 'Kongeriket Norge', 'Kongeriket Noreg']",NO,NOR,NOR,578,Europe,Northern Europe,122.0,186.0,385.0,Norwegen
+Oman,"['OM', 'Sultanate of Oman', 'Salṭanat ʻUmān']",OM,OMN,OMA,512,Asia,Western Asia,,187.0,698.0,Oman
+Pakistan,"['PK', 'Pākistān', 'Islamic Republic of Pakistan', ""Islāmī Jumhūriya'eh Pākistān""]",PK,PAK,PAK,586,Asia,Southern Asia,97.0,29.0,770.0,Pakistan
+Palau,"['PW', 'Republic of Palau', 'Beluu er a Belau']",PW,PLW,PLW,585,Oceania,Micronesia,,,,Palau
+Palestine,"['PS', 'Palestine, State of', 'State of Palestine', 'Dawlat Filasṭin']",PS,PSE,PLE,275,Asia,Western Asia,,,,Palästina
+Panama,"['PA', 'Republic of Panama', 'República de Panamá']",PA,PAN,PAN,591,Americas,Central America,62.0,92.0,95.0,Panama
+Papua New Guinea,"['PG', 'Independent State of Papua New Guinea', 'Independen Stet bilong Papua Niugini']",PG,PNG,PNG,598,Oceania,Melanesia,134.0,93.0,910.0,Papua Neuguinea
+Paraguay,"['PY', 'Republic of Paraguay', 'República del Paraguay', 'Tetã Paraguái']",PY,PRY,PAR,600,Americas,South America,74.0,189.0,150.0,Paraguay
+Peru,"['PE', 'Republic of Peru', 'República del Perú']",PE,PER,PER,604,Americas,South America,75.0,30.0,135.0,Peru
+Philippines,"['PH', 'Republic of the Philippines', 'Repúblika ng Pilipinas']",PH,PHL,PHI,608,Asia,South-Eastern Asia,98.0,46.0,840.0,Philippinen
+Pitcairn Islands,"['PN', 'Pitcairn', 'Pitcairn Henderson Ducie and Oeno Islands']",PN,PCN,[],612,Oceania,Polynesia,,,,Pitcairn
+Poland,"['PL', 'Republic of Poland', 'Rzeczpospolita Polska']",PL,POL,POL,616,Europe,Central Europe,123.0,17.0,290.0,Polen
+Portugal,"['PT', 'Portuguesa', 'Portuguese Republic', 'República Portuguesa']",PT,PRT,POR,620,Europe,Southern Europe,124.0,21.0,235.0,Portugal
+Puerto Rico,"['PR', 'Commonwealth of Puerto Rico', 'Estado Libre Asociado de Puerto Rico']",PR,PRI,PUR,630,Americas,Caribbean,,,,Puerto Rico
+Qatar,"['QA', 'State of Qatar', 'Dawlat Qaṭar']",QA,QAT,QAT,634,Asia,Western Asia,318.0,94.0,694.0,Qatar
+Republic of the Congo,"['CG', 'Congo', 'Congo-Brazzaville']",CG,COG,CGO,178,Africa,Middle Africa,12.0,112.0,484.0,Kongo
+Romania,"['RO', 'Rumania', 'Roumania', 'România']",RO,ROU,ROU,642,Europe,Southeast Europe,153.0,190.0,360.0,Rumänien
+Russia,"['RU', 'Russian Federation', 'Российская Федерация']",RU,RUS,RUS,643,Europe,Eastern Europe,154.0,11.0,365.0,Russland
+Rwanda,"['RW', 'Republic of Rwanda', ""Repubulika y'u Rwanda"", 'République du Rwanda']",RW,RWA,RWA,646,Africa,Eastern Africa,33.0,129.0,517.0,Ruanda
+Réunion,"['RE', 'Reunion']",RE,REU,[],638,Africa,Eastern Africa,142.0,,,Reunion
+Saint Barthélemy,"['BL', 'St. Barthelemy', 'Collectivity of Saint Barthélemy', 'Collectivité de Saint-Barthélemy']",BL,BLM,[],652,Americas,Caribbean,,,,
+"Saint Helena, Ascension and Tristan da Cunha","['Saint Helena', 'St. Helena, Ascension and Tristan da Cunha']",SH,SHN,[],654,Africa,Western Africa,,,,St. Helena
+Saint Kitts and Nevis,"['KN', 'Federation of Saint Christopher and Nevis']",KN,KNA,SKN,659,Americas,Caribbean,,,,St. Kitts Nevis Anguilla
+Saint Lucia,['LC'],LC,LCA,LCA,662,Americas,Caribbean,,,,Saint Lucia
+Saint Martin,"['MF', 'Collectivity of Saint Martin', 'Collectivité de Saint-Martin', 'Saint Martin (French part)']",MF,MAF,[],663,Americas,Caribbean,,,,
+Saint Pierre and Miquelon,"['PM', 'Collectivité territoriale de Saint-Pierre-et-Miquelon']",PM,SPM,[],666,Americas,North America,,,,St. Pierre und Miquelon
+Saint Vincent and the Grenadines,['VC'],VC,VCT,VIN,670,Americas,Caribbean,,,,St. Vincent
+Samoa,"['WS', 'Independent State of Samoa', 'Malo Saʻoloto Tutoʻatasi o Sāmoa']",WS,WSM,SAM,882,Oceania,Polynesia,,,,Samoa
+San Marino,"['SM', 'Republic of San Marino', 'Repubblica di San Marino']",SM,SMR,SMR,674,Europe,Southern Europe,,,,San Marino
+Saudi Arabia,"['Saudi', 'SA', 'Kingdom of Saudi Arabia', 'Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah']",SA,SAU,KSA,682,Asia,Western Asia,99.0,197.0,670.0,Saudi Arabien
+Senegal,"['SN', 'Republic of Senegal', 'République du Sénégal']",SN,SEN,SEN,686,Africa,Western Africa,34.0,31.0,433.0,Senegal
+Serbia,"['RS', 'Srbija', 'Republic of Serbia', 'Република Србија', 'Republika Srbija']",RS,SRB,SRB,688,Europe,Southeast Europe,,198.0,345.0,
+Seychelles,"['SC', 'Republic of Seychelles', 'Repiblik Sesel', 'République des Seychelles']",SC,SYC,SEY,690,Africa,Eastern Africa,,199.0,591.0,Seychellen
+Sierra Leone,"['SL', 'Republic of Sierra Leone']",SL,SLE,SLE,694,Africa,Western Africa,36.0,95.0,451.0,Sierra Leone
+Singapore,"['SG', 'Singapura', 'Republik Singapura', '新加坡共和国']",SG,SGP,SGP,702,Asia,South-Eastern Asia,100.0,200.0,830.0,Singapur
+Sint Maarten,"['SX', 'Sint Maarten (Dutch part)']",SX,SXM,[],534,Americas,Caribbean,,,,
+Slovakia,"['SK', 'Slovak Republic', 'Slovenská republika']",SK,SVK,SVK,703,Europe,Central Europe,170.0,201.0,317.0,Slowakei
+Slovenia,"['SI', 'Republic of Slovenia', 'Republika Slovenija']",SI,SVN,SLO,705,Europe,Central Europe,331.0,202.0,349.0,Slowenien
+Solomon Islands,['SB'],SB,SLB,SOL,090,Oceania,Melanesia,,203.0,940.0,Solomon Inseln
+Somalia,"['SO', 'aṣ-Ṣūmāl', 'Federal Republic of Somalia', 'Jamhuuriyadda Federaalka Soomaaliya', 'Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya']",SO,SOM,SOM,706,Africa,Eastern Africa,,130.0,520.0,Somalia
+South Africa,"['ZA', 'RSA', 'Suid-Afrika', 'Republic of South Africa']",ZA,ZAF,RSA,710,Africa,Southern Africa,38.0,8.0,560.0,Südafrika
+South Georgia,"['GS', 'South Georgia and the South Sandwich Islands']",GS,SGS,[],239,Antarctic,[],,,,Südgeorgien und die Südlichen Sandwichinseln
+South Korea,"['KR', 'Korea, Republic of', 'Republic of Korea', '남한', '남조선']",KR,KOR,KOR,410,Asia,Eastern Asia,92.0,42.0,732.0,Süd Korea
+South Sudan,['SS'],SS,SSD,SSD,728,Africa,Middle Africa,,32.0,626.0,
+Spain,"['ES', 'Kingdom of Spain', 'Reino de España']",ES,ESP,ESP,724,Europe,Southern Europe,125.0,96.0,230.0,Spanien
+Sri Lanka,"['LK', 'ilaṅkai', 'Democratic Socialist Republic of Sri Lanka']",LK,LKA,SRI,144,Asia,Southern Asia,101.0,131.0,780.0,Sri Lanka
+Sudan,"['SD', 'Republic of the Sudan', 'Jumhūrīyat as-Sūdān']",SD,SDN,SUD,729,Africa,Northern Africa,39.0,33.0,625.0,Sudan
+Suriname,"['SR', 'Sarnam', 'Sranangron', 'Republic of Suriname', 'Republiek Suriname']",SR,SUR,SUR,740,Americas,South America,,4.0,115.0,Surinam
+Svalbard and Jan Mayen,"['SJ', 'Svalbard and Jan Mayen Islands']",SJ,SJM,[],744,Europe,Northern Europe,,,,Svalbard und Jan Mayen Islands
+Sweden,"['SE', 'Kingdom of Sweden', 'Konungariket Sverige']",SE,SWE,SWE,752,Europe,Northern Europe,126.0,5.0,380.0,Schweden
+Switzerland,"['CH', 'Swiss Confederation', 'Schweiz', 'Suisse', 'Svizzera', 'Svizra']",CH,CHE,SUI,756,Europe,Western Europe,127.0,6.0,225.0,Schweiz
+Syria,"['SY', 'Syrian Arab Republic', 'Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah']",SY,SYR,SYR,760,Asia,Western Asia,102.0,97.0,652.0,Syrien
+São Tomé and Príncipe,"['ST', 'Democratic Republic of São Tomé and Príncipe', 'Sao Tome and Principe', 'República Democrática de São Tomé e Príncipe']",ST,STP,STP,678,Africa,Middle Africa,,196.0,403.0,Sao Tome
+Taiwan,"['TW', 'Táiwān', 'Republic of China', '中華民國', 'Zhōnghuá Mínguó', 'Chinese Taipei']",TW,TWN,TPE,158,Asia,Eastern Asia,103.0,48.0,713.0,Taiwan
+Tajikistan,"['TJ', 'Toçikiston', 'Republic of Tajikistan', 'Ҷумҳурии Тоҷикистон', 'Çumhuriyi Toçikiston']",TJ,TJK,TJK,762,Asia,Central Asia,319.0,133.0,702.0,Tadschikistan
+Tanzania,"['TZ', 'Tanzania, United Republic of', 'United Republic of Tanzania', 'Jamhuri ya Muungano wa Tanzania']",TZ,TZA,TAN,834,Africa,Eastern Africa,41.0,47.0,510.0,Tansania
+Thailand,"['TH', 'Prathet', 'Thai', 'Kingdom of Thailand', 'ราชอาณาจักรไทย', 'Ratcha Anachak Thai']",TH,THA,THA,764,Asia,South-Eastern Asia,104.0,49.0,800.0,Thailand
+Timor-Leste,"['TL', 'East Timor', 'Democratic Republic of Timor-Leste', 'República Democrática de Timor-Leste', 'Repúblika Demokrátika Timór-Leste', ""Timór Lorosa'e"", 'Timor Lorosae']",TL,TLS,TLS,626,Asia,South-Eastern Asia,,74.0,860.0,
+Togo,"['TG', 'Togolese', 'Togolese Republic', 'République Togolaise']",TG,TGO,TOG,768,Africa,Western Africa,42.0,134.0,461.0,Togo
+Tokelau,['TK'],TK,TKL,[],772,Oceania,Polynesia,,,,Tokelau
+Tonga,['TO'],TO,TON,TGA,776,Oceania,Polynesia,136.0,,,Tonga
+Trinidad and Tobago,"['TT', 'Republic of Trinidad and Tobago']",TT,TTO,TTO,780,Americas,Caribbean,65.0,135.0,52.0,Trinidad Tobago
+Tunisia,"['TN', 'Republic of Tunisia', 'al-Jumhūriyyah at-Tūnisiyyah']",TN,TUN,TUN,788,Africa,Northern Africa,43.0,98.0,616.0,Tunesien
+Turkey,"['TR', 'Turkiye', 'Republic of Turkey', 'Türkiye Cumhuriyeti', 'Türkiye']",TR,TUR,TUR,792,Asia,Western Asia,128.0,99.0,640.0,Türkei
+Turkmenistan,['TM'],TM,TKM,TKM,795,Asia,Central Asia,,136.0,701.0,Turkmenistan
+Turks and Caicos Islands,['TC'],TC,TCA,[],796,Americas,Caribbean,,,,Turks und Kaikos Inseln
+Tuvalu,['TV'],TV,TUV,TUV,798,Oceania,Polynesia,,,,Tuvalu
+Uganda,"['UG', 'Republic of Uganda', 'Jamhuri ya Uganda']",UG,UGA,UGA,800,Africa,Eastern Africa,44.0,50.0,500.0,Uganda
+Ukraine,"['UA', 'Ukrayina']",UA,UKR,UKR,804,Europe,Eastern Europe,358.0,100.0,369.0,Ukraine
+United Arab Emirates,"['AE', 'UAE', 'Emirates']",AE,ARE,UAE,784,Asia,Western Asia,105.0,207.0,696.0,Vereinigte Arabische Emirate
+United Kingdom,"['GB', 'UK', 'Great Britain']",GB,GBR,GBR,826,Europe,Northern Europe,129.0,101.0,200.0,Großbritannien (UK)
+United States,"['US', 'USA', 'United States of America']",US,USA,USA,840,Americas,North America,66.0,20.0,2.0,Vereinigte Staaten von Amerika
+United States Minor Outlying Islands,['UM'],UM,UMI,[],581,Americas,North America,,,,
+United States Virgin Islands,"['VI', 'Virgin Islands, U.S.']",VI,VIR,ISV,850,Americas,Caribbean,,,,Virgin Island (USA)
+Uruguay,"['UY', 'Oriental Republic of Uruguay', 'República Oriental del Uruguay']",UY,URY,URU,858,Americas,South America,77.0,102.0,165.0,Uruguay
+Uzbekistan,"['UZ', 'Republic of Uzbekistan', 'O‘zbekiston Respublikasi', 'Ўзбекистон Республикаси']",UZ,UZB,UZB,860,Asia,Central Asia,,140.0,704.0,Usbekistan
+Vanuatu,"['VU', 'Republic of Vanuatu', 'Ripablik blong Vanuatu', 'République de Vanuatu']",VU,VUT,VAN,548,Oceania,Melanesia,,206.0,935.0,Vanuatu
+Vatican City,"['VA', 'Holy See (Vatican City State)', 'Vatican City State', 'Stato della Città del Vaticano']",VA,VAT,[],336,Europe,Southern Europe,,,,Vatikan
+Venezuela,"['VE', 'Bolivarian Republic of Venezuela', 'Venezuela, Bolivarian Republic of', 'República Bolivariana de Venezuela']",VE,VEN,VEN,862,Americas,South America,78.0,51.0,101.0,Venezuela
+Vietnam,"['VN', 'Socialist Republic of Vietnam', 'Cộng hòa Xã hội chủ nghĩa Việt Nam', 'Viet Nam']",VN,VNM,VIE,704,Asia,South-Eastern Asia,320.0,34.0,816.0,Vietnam
+Wallis and Futuna,"['WF', 'Territory of the Wallis and Futuna Islands', 'Territoire des îles Wallis et Futuna']",WF,WLF,[],876,Oceania,Polynesia,,,,Wallis et Futuna
+Western Sahara,"['EH', 'Taneẓroft Tutrimt']",EH,ESH,[],732,Africa,Northern Africa,,,,Westsahara
+Yemen,"['YE', 'Yemeni Republic', 'al-Jumhūriyyah al-Yamaniyyah', 'Yemen Arab Republic']",YE,YEM,YEM,887,Asia,Western Asia,106.0,14.0,679.0,Jemen
+Yemen,"['YE', 'Yemeni Republic', 'al-Jumhūriyyah al-Yamaniyyah', 'Yemen Arab Republic']",YE,YEM,YEM,887,Asia,Western Asia,106.0,14.0,678.0,Jemen
+Zambia,"['ZM', 'Republic of Zambia']",ZM,ZMB,ZAM,894,Africa,Eastern Africa,46.0,61.0,551.0,Sambia
+Zimbabwe,"['ZW', 'Republic of Zimbabwe']",ZW,ZWE,ZIM,716,Africa,Southern Africa,47.0,62.0,552.0,Zimbabwe
+Åland Islands,"['AX', 'Aaland', 'Aland', 'Ahvenanmaa']",AX,ALA,[],248,Europe,Northern Europe,,,,
